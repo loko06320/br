@@ -1,0 +1,2241 @@
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       125] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//brv_loading
+[       141] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//brv_main
+[       141] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//brv_spawner
+[       156] Found new resource fivem in C:/Users\loko\Desktop\brv-reborn/resources//fivem
+[       172] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-hipster
+[       187] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-skater
+[       187] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       203] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       219] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       219] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       234] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       234] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       250] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       266] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       281] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       281] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       297] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[      1062] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_chat
+[      1062] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_hardcap
+[      1078] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_scoreboard
+[      1094] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[      1094] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[      1109] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[      1125] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[      1141] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[      1141] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[      1203] Started resource sessionmanager
+[      2797] Started resource mapmanager
+[      2812] Started resource brv_chat
+[      2844] Started resource spawnmanager
+[      2891] Started resource fivem
+[      2891] Started gametype Freeroam
+[      2922] Started resource brv_hardcap
+[      2937] Started resource rconlog
+[      2953] Started resource brv_scoreboard
+[      2984] Started resource baseevents
+[      3000] Started resource brv_loading
+[      3016] Changing gametype from fivem to brv_main
+[      3016] Stopping resource fivem
+[      3031] Failed to load script server/config.lua.
+[      3047] Started resource brv_main
+[      3062] Started gametype Battle Royale V
+[      3078] Started resource brv_spawner
+[      3094] Started map brv_spawner
+[      3094] ^3Couldn't find resource citizen.^7
+[      3109] Started resource runcode
+[      3766] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1036750118
+[      3781] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      3797] Started resource mysql-async
+[      3844] The file brv_logo.png must be a 96x96 PNG image to be used as icon.
+[      3859] Stopping resource sessionmanager
+[      3875] Started resource sessionmanager
+[      3891] Authenticating server license key...
+[      4391] Server license key authentication succeeded. Welcome!
+[      4484] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      4500] Sending heartbeat to live-internal.fivem.net:30110
+[      4812] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1036750118
+[      4906] hitch warning: frame time of 450 milliseconds
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       125] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//brv_loading
+[       125] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//brv_main
+[       141] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//brv_spawner
+[       156] Found new resource fivem in C:/Users\loko\Desktop\brv-reborn/resources//fivem
+[       156] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-hipster
+[       188] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-skater
+[       188] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       203] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       219] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       219] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       234] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       250] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       250] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       266] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       281] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       281] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       297] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[       313] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_chat
+[       313] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_hardcap
+[       328] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_scoreboard
+[       344] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[       344] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[       359] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[       375] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[       375] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[       391] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[       438] Started resource sessionmanager
+[       469] Started resource mapmanager
+[       484] Started resource brv_chat
+[       484] Started resource spawnmanager
+[       500] Started resource fivem
+[       500] Started gametype Freeroam
+[       516] Started resource brv_hardcap
+[       531] Started resource rconlog
+[       547] Started resource brv_scoreboard
+[       563] Started resource baseevents
+[       578] Started resource brv_loading
+[       594] Changing gametype from fivem to brv_main
+[       594] Stopping resource fivem
+[       609] Failed to load script server/config.lua.
+[       625] Started resource brv_main
+[       625] Started gametype Battle Royale V
+[       641] Started resource brv_spawner
+[       656] Started map brv_spawner
+[       672] Started resource runcode
+[      1234] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1017962918
+[      1250] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1266] Started resource mysql-async
+[      1313] The file brv_logo.png must be a 96x96 PNG image to be used as icon.
+[      1328] Stopping resource sessionmanager
+[      1344] Started resource sessionmanager
+[      1344] Authenticating server license key...
+[      1750] Server license key authentication succeeded. Welcome!
+[      1813] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1828] Sending heartbeat to live-internal.fivem.net:30110
+[      2000] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1017962918
+[      2094] hitch warning: frame time of 282 milliseconds
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[       125] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//brv_loading
+[       125] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//brv_main
+[       140] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//brv_spawner
+[       156] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       156] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-hipster
+[       172] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-skater
+[       187] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       187] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       203] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       219] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       234] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       234] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       250] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       265] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       281] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       281] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       297] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[       312] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_chat
+[       312] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_hardcap
+[       328] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_scoreboard
+[       328] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[       344] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[       359] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[       375] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[       375] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[       390] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[       437] Started resource sessionmanager
+[       484] Started resource mapmanager
+[       515] Started resource brv_chat
+[       531] Started resource spawnmanager
+[       547] Started resource brv_hardcap
+[       562] Started resource rconlog
+[       594] Started resource brv_scoreboard
+[       609] Started resource baseevents
+[       640] Started resource brv_loading
+[       656] Failed to load script server/config.lua.
+[       672] Started resource brv_main
+[       687] Started gametype Battle Royale V
+[       687] Started resource brv_spawner
+[       703] Started map brv_spawner
+[       734] Started resource runcode
+[      1344] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1063237240
+[      1359] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1375] Started resource mysql-async
+[      1437] The file brv_logo.png must be a 96x96 PNG image to be used as icon.
+[      1437] Stopping resource sessionmanager
+[      1469] Started resource sessionmanager
+[      1469] Authenticating server license key...
+[      1922] Server license key authentication succeeded. Welcome!
+[      1984] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      2000] Sending heartbeat to live-internal.fivem.net:30110
+[      2250] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1063237240
+[      2344] hitch warning: frame time of 368 milliseconds
+[     95375] LoKo is connecting...
+[     96609] Sending heartbeat to live-internal.fivem.net:30110
+[    130344] brv:playerFirstSpawned : 1
+[    130422] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1063237240
+[    130750] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1063237240
+[    130859] [ERROR] [MySQL] An error happens on MySQL for query "SELECT * FROM players WHERE steamid=@steamid LIMIT 1 {@steamid=steam:1100001026d22df}": Unknown database 'essentialmode'
+[    141578] Error running system event handling function for resource brv_main: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server/commands.lua:243: attempt to index a boolean value (local 'player')
+[    141594] stack traceback:
+[    141594] 	server/commands.lua:243: in function <server/commands.lua:242>
+[    141609] 	(...tail calls...)
+[    141609] 	server/commands.lua:301: in upvalue 'handler'
+[    141609] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:173>
+[    141625] stack traceback:
+[    141625] 	[C]: in function 'error'
+[    141625] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[    141640] 	citizen:/scripting/lua/scheduler.lua:173: in function <citizen:/scripting/lua/scheduler.lua:138>
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[       125] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//brv_loading
+[       141] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//brv_main
+[       156] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//brv_spawner
+[       156] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-hipster
+[       187] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-skater
+[       203] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       219] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       219] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       234] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       250] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       266] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       266] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       281] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       297] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       312] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       312] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[       328] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_chat
+[       344] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_hardcap
+[       359] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_scoreboard
+[       359] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[       375] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[       391] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[       391] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[       406] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[       422] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[       469] Started resource sessionmanager
+[       500] Started resource mapmanager
+[       531] Started resource brv_chat
+[       547] Started resource spawnmanager
+[       562] Started resource brv_hardcap
+[       578] Started resource rconlog
+[       609] Started resource brv_scoreboard
+[       625] Started resource baseevents
+[       656] Started resource brv_loading
+[       672] Failed to load script server/config.lua.
+[       687] Started resource brv_main
+[       703] Started gametype Battle Royale V
+[       719] Started resource brv_spawner
+[       734] Started map brv_spawner
+[       750] Started resource runcode
+[      1375] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_762109338
+[      1391] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1406] Started resource mysql-async
+[      1453] The file brv_logo.png must be a 96x96 PNG image to be used as icon.
+[      1469] Stopping resource sessionmanager
+[      1484] Started resource sessionmanager
+[      1500] Authenticating server license key...
+[      1984] Server license key authentication succeeded. Welcome!
+[      2078] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      2078] Sending heartbeat to live-internal.fivem.net:30110
+[      2266] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_762109338
+[      2359] hitch warning: frame time of 328 milliseconds
+[    136141] Initializing Mono
+[    136187] Initializing Mono completed
+[    136203] Hello!
+[    136281] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//brv_loading
+[    136297] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//brv_main
+[    136297] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//brv_spawner
+[    136312] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[    136328] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-hipster
+[    136328] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-skater
+[    136344] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[    136359] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[    136359] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[    136375] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[    136391] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[    136391] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[    136406] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[    136422] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[    136437] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[    136437] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[    136453] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[    136469] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_chat
+[    136469] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_hardcap
+[    136484] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_scoreboard
+[    136500] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[    136500] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[    136516] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[    136531] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[    136547] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[    136547] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[    136594] Started resource sessionmanager
+[    136609] Listening on socket failed - libuv error address already in use.
+[    136625] net-tcp-server failed to create server: couldn't listenCould not bind MultiplexTcpServer to 0.0.0.0:30120.
+[    136641] Could not bind on 0.0.0.0:30120 - is this address valid and not already in use?
+[    136672] Started resource mapmanager
+[    136687] Started resource brv_chat
+[    136719] Started resource spawnmanager
+[    136734] Started resource brv_hardcap
+[    136750] Started resource rconlog
+[    136766] Started resource brv_scoreboard
+[    136781] Started resource baseevents
+[    136812] Started resource brv_loading
+[    136828] Failed to load script server/config.lua.
+[    136844] Started resource brv_main
+[    136859] Started gametype Battle Royale V
+[    136875] Started resource brv_spawner
+[    136875] Started map brv_spawner
+[    136906] Started resource runcode
+[    137516] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_496768994
+[    137547] Instantiated instance of script MySQLAsync.MySQLAsync.
+[    137547] Started resource mysql-async
+[    137594] The file myLogo.png must be a 96x96 PNG image to be used as icon.
+[    137609] Stopping resource sessionmanager
+[    137625] Started resource sessionmanager
+[    137641] Authenticating server license key...
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       109] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//brv_loading
+[       125] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//brv_main
+[       141] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//brv_spawner
+[       141] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       156] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-hipster
+[       172] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-skater
+[       172] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       188] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       203] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       203] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       219] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       234] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       234] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       250] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       266] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       266] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       281] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[       297] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_chat
+[       297] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_hardcap
+[       313] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_scoreboard
+[       328] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[       344] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[       344] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[       359] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[       375] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[       375] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[       422] Started resource sessionmanager
+[       453] Started resource mapmanager
+[       484] Started resource brv_chat
+[       500] Started resource spawnmanager
+[       516] Started resource brv_hardcap
+[       531] Started resource rconlog
+[       641] Started resource brv_scoreboard
+[       656] Started resource baseevents
+[       688] Started resource brv_loading
+[       703] Failed to load script server/config.lua.
+[       734] Started resource brv_main
+[       750] Started gametype Battle Royale V
+[       750] Started resource brv_spawner
+[       766] Started map brv_spawner
+[       797] Started resource runcode
+[      1391] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1204602601
+[      1406] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1422] Started resource mysql-async
+[      1469] The file myLogo.png must be a 96x96 PNG image to be used as icon.
+[      1484] Stopping resource sessionmanager
+[      1500] Started resource sessionmanager
+[      1500] Authenticating server license key...
+[      2484] Server license key authentication succeeded. Welcome!
+[      2547] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      2563] Sending heartbeat to live-internal.fivem.net:30110
+[      2734] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1204602601
+[      2828] hitch warning: frame time of 285 milliseconds
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       125] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//brv_loading
+[       141] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//brv_main
+[       141] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//brv_spawner
+[       156] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-hipster
+[       172] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-skater
+[       187] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       203] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       203] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       219] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       234] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       234] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       250] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       266] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       266] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       281] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       297] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[       297] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_chat
+[       312] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_hardcap
+[       328] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_scoreboard
+[       328] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[       344] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[       359] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[       359] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[       375] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[       391] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[       437] Started resource sessionmanager
+[       453] Started resource mapmanager
+[       484] Started resource brv_chat
+[       500] Started resource spawnmanager
+[       516] Started resource brv_hardcap
+[       531] Started resource rconlog
+[       562] Started resource brv_scoreboard
+[       578] Started resource baseevents
+[       609] Started resource brv_loading
+[       609] Failed to load script server/config.lua.
+[       641] Started resource brv_main
+[       641] Started gametype Battle Royale V
+[       656] Started resource brv_spawner
+[       672] Started map brv_spawner
+[       703] Started resource runcode
+[      1312] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_49181196
+[      1344] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1359] Started resource mysql-async
+[      1406] Stopping resource sessionmanager
+[      1422] Started resource sessionmanager
+[      1437] Authenticating server license key...
+[      1906] Server license key authentication succeeded. Welcome!
+[      1969] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1969] Sending heartbeat to live-internal.fivem.net:30110
+[      2172] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_49181196
+[      2266] hitch warning: frame time of 297 milliseconds
+[     44828] LoKo is connecting...
+[     45609] Sending heartbeat to live-internal.fivem.net:30110
+[     97391] brv:playerFirstSpawned : 1
+[     97437] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_49181196
+[     97719] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_49181196
+[     97984] Error running call reference function for resource brv_main: citizen:/scripting/lua/scheduler.lua:348: server/server.lua:74: attempt to index a nil value (global 'conf')
+[     97984] stack traceback:
+[     97984] 	server/server.lua:74: in upvalue 'ref'
+[     98000] 	citizen:/scripting/lua/scheduler.lua:334: in function <citizen:/scripting/lua/scheduler.lua:333>
+[     98000] 	[C]: in function 'xpcall'
+[     98000] 	citizen:/scripting/lua/scheduler.lua:333: in function <citizen:/scripting/lua/scheduler.lua:332>
+[     98016] stack traceback:
+[     98016] 	[C]: in function 'error'
+[     98016] 	citizen:/scripting/lua/scheduler.lua:348: in function <citizen:/scripting/lua/scheduler.lua:319>
+[     98031] [ERROR] [MySQL] Check the error above, an error happens when executing the callback from the query : "SELECT * FROM players WHERE steamid=@steamid LIMIT 1 {@steamid=steam:1100001026d22df}"
+[    225641] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        32] Hello!
+[       125] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//brv_loading
+[       141] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//brv_main
+[       157] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//brv_spawner
+[       157] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-hipster
+[       188] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//fivem-map-skater
+[       204] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       204] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       219] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       235] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       250] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       250] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       266] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       282] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       297] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       313] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       313] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[       329] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_chat
+[       344] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_hardcap
+[       360] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[system]/brv_scoreboard
+[       360] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[       375] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[       391] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[       407] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[       422] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[       438] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[       500] Started resource sessionmanager
+[       532] Started resource mapmanager
+[       563] Started resource brv_chat
+[       594] Started resource spawnmanager
+[       610] Started resource brv_hardcap
+[       625] Started resource rconlog
+[       657] Started resource brv_scoreboard
+[       688] Started resource baseevents
+[       719] Started resource brv_loading
+[       735] Started resource brv_main
+[       750] Started gametype Battle Royale V
+[       766] Started resource brv_spawner
+[       782] Started map brv_spawner
+[       797] Started resource runcode
+[      1438] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_899639025
+[      1454] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1532] Started resource mysql-async
+[      1579] Stopping resource sessionmanager
+[      1594] Started resource sessionmanager
+[      1594] Authenticating server license key...
+[      2110] Server license key authentication succeeded. Welcome!
+[      2204] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      2204] Sending heartbeat to live-internal.fivem.net:30110
+[      2391] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_899639025
+[      2485] hitch warning: frame time of 317 milliseconds
+[     33469] LoKo is connecting...
+[     34235] Sending heartbeat to live-internal.fivem.net:30110
+[     48938] brv:playerFirstSpawned : 1
+[     49000] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_899639025
+[     49329] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_899639025
+[     50094]  : ^2* LoKo joined.
+[     50094]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[     50110]  : ^2* ^2Available commands :
+[     50110]  : ^2* ^4/help^2 : Show this message
+[     50125]  : ^2* ^4/skin^2 : Select new random skin
+[     50125]  : ^2* ^4/saveskin^2 : Save current skin
+[     50141]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[     50141]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[     50157]  : ^2* ^2Key controls :
+[     50157]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[     50172]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[     50172]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[     50188]  : ^2* ^2Join our Discord and thanks for playing !
+[     50204] Command 'help' found, called by 'LoKo'.
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        47] Hello!
+[       125] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       141] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       141] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       156] Found new resource afkkick in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/afkkick
+[       156] Found new resource assets in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/assets
+[       172] Found new resource bob74_ipl in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/bob74_ipl
+[       188] Found new resource boussole in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/boussole
+[       203] Found new resource carhud in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/carhud
+[       219] Found new resource client_base in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/client_base
+[       219] Found new resource crouch in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/crouch
+[       235] Found new resource gb_vocal in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/gb_vocal
+[       250] Found new resource nodroppnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/nodroppnj
+[       266] Found new resource noviseur in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/noviseur
+[       281] Found new resource PoliceVehiclesWeaponDeleter in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/PoliceVehiclesWeaponDeleter
+[       297] Found new resource trafficpnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/trafficpnj
+[       313] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_chat
+[       328] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_hardcap
+[       328] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_loading
+[       344] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_main
+[       360] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_scoreboard
+[       375] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_spawner
+[       375] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       391] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       406] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       406] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       422] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       438] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       453] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       453] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       469] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-hipster
+[       485] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-skater
+[       500] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[       500] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[       516] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[       531] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[       531] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[       547] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[       563] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[       610] Started resource sessionmanager
+[       641] Started resource mapmanager
+[       656] Started resource brv_chat
+[       672] Started resource spawnmanager
+[       688] Started resource brv_hardcap
+[       719] Started resource rconlog
+[       735] Started resource brv_scoreboard
+[       750] Started resource baseevents
+[       781] Started resource brv_loading
+[       813] Started resource brv_main
+[       813] Started gametype Battle Royale V
+[       828] Started resource brv_spawner
+[       844] Started map brv_spawner
+[       860] Started resource runcode
+[      2141] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_912124237
+[      2172] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      2172] Started resource mysql-async
+[      2235] Started resource afkkick
+[      2313] Started resource assets
+[      2360] Started resource bob74_ipl
+[      2391] Started resource boussole
+[      2422] Started resource carhud
+[      2453] Started resource client_base
+[      2469] Started resource crouch
+[      2500] Started resource gb_vocal
+[      2531] Started resource nodroppnj
+[      2547] Started resource noviseur
+[      2578] Started resource PoliceVehiclesWeaponDeleter
+[      2610] Started resource trafficpnj
+[      2625] Stopping resource sessionmanager
+[      2641] Started resource sessionmanager
+[      2641] Authenticating server license key...
+[      3156] Server license key authentication succeeded. Welcome!
+[      3250] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      3266] Sending heartbeat to live-internal.fivem.net:30110
+[      3422] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_912124237
+[      3531] hitch warning: frame time of 321 milliseconds
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        47] Hello!
+[       141] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       156] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       156] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       172] Found new resource afkkick in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/afkkick
+[       188] Found new resource assets in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/assets
+[       203] Found new resource bob74_ipl in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/bob74_ipl
+[       203] Found new resource boussole in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/boussole
+[       219] Found new resource carhud in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/carhud
+[       235] Found new resource client_base in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/client_base
+[       235] Found new resource crouch in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/crouch
+[       250] Found new resource gb_vocal in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/gb_vocal
+[       266] Found new resource nodroppnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/nodroppnj
+[       266] Found new resource noviseur in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/noviseur
+[       281] Found new resource PoliceVehiclesWeaponDeleter in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/PoliceVehiclesWeaponDeleter
+[       297] Found new resource trafficpnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/trafficpnj
+[       313] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_chat
+[       313] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_hardcap
+[       328] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_loading
+[       344] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_main
+[       344] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_scoreboard
+[       360] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_spawner
+[       375] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       375] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       391] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       406] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       422] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       422] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       438] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       453] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       469] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-hipster
+[       485] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-skater
+[       500] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[       500] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[       516] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[       531] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[       547] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[       563] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[       563] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[       610] Started resource sessionmanager
+[       641] Started resource mapmanager
+[       672] Started resource brv_chat
+[       688] Started resource spawnmanager
+[       719] Started resource brv_hardcap
+[       719] Started resource rconlog
+[       750] Started resource brv_scoreboard
+[       766] Started resource baseevents
+[       797] Started resource brv_loading
+[       828] Started resource brv_main
+[       828] Started gametype Battle Royale V
+[       844] Started resource brv_spawner
+[       860] Started map brv_spawner
+[       875] Started resource runcode
+[      2156] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_26894627
+[      2172] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      2188] Started resource mysql-async
+[      2235] Started resource afkkick
+[      2266] Started resource assets
+[      2297] Started resource bob74_ipl
+[      2313] Started resource boussole
+[      2328] Started resource carhud
+[      2344] Started resource client_base
+[      2360] Started resource crouch
+[      2391] Started resource gb_vocal
+[      2391] Started resource nodroppnj
+[      2422] Started resource noviseur
+[      2438] Started resource PoliceVehiclesWeaponDeleter
+[      2453] Started resource trafficpnj
+[      2469] Stopping resource sessionmanager
+[      2485] Started resource sessionmanager
+[      2500] Authenticating server license key...
+[      2985] Server license key authentication succeeded. Welcome!
+[      3172] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      3172] Sending heartbeat to live-internal.fivem.net:30110
+[      3360] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_26894627
+[      3469] hitch warning: frame time of 298 milliseconds
+[     98031] LoKo is connecting...
+[     99469] Sending heartbeat to live-internal.fivem.net:30110
+[     99500] bennette dangelo is connecting...
+[    103281] Sending heartbeat to live-internal.fivem.net:30110
+[    103953] John Haze is connecting...
+[    105828] Sending heartbeat to live-internal.fivem.net:30110
+[    133610] brv:playerFirstSpawned : 1
+[    133656] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_26894627
+[    133953] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_26894627
+[    134188]  : ^2* LoKo joined.
+[    134203]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[    134203]  : ^2* ^2Available commands :
+[    134219]  : ^2* ^4/help^2 : Show this message
+[    134219]  : ^2* ^4/skin^2 : Select new random skin
+[    134235]  : ^2* ^4/saveskin^2 : Save current skin
+[    134235]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[    134250]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[    134250]  : ^2* ^2Key controls :
+[    134266]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[    134266]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[    134281]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[    134281]  : ^2* ^2Join our Discord and thanks for playing !
+[    134297] Command 'help' found, called by 'LoKo'.
+[    134313] hitch warning: frame time of 153 milliseconds
+[    134750]  : ^2* Skin saved (^4a_m_y_skater_01^2)
+[    148313] Command 'skin' found, called by 'LoKo'.
+[    150813] brv:playerFirstSpawned : 3
+[    151766]  : ^2* John Haze joined.
+[    151766]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[    151781]  : ^2* ^2Available commands :
+[    151781]  : ^2* ^4/help^2 : Show this message
+[    151797]  : ^2* ^4/skin^2 : Select new random skin
+[    151797]  : ^2* ^4/saveskin^2 : Save current skin
+[    151813]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[    151828]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[    151828]  : ^2* ^2Key controls :
+[    151844]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[    151844]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[    151860]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[    151860]  : ^2* ^2Join our Discord and thanks for playing !
+[    151875] Command 'help' found, called by 'John Haze'.
+[    153360] Command 'skin' found, called by 'LoKo'.
+[    162719] brv:playerFirstSpawned : 2
+[    163672]  : ^2* bennette dangelo joined.
+[    163688]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[    163703]  : ^2* ^2Available commands :
+[    163703]  : ^2* ^4/help^2 : Show this message
+[    163719]  : ^2* ^4/skin^2 : Select new random skin
+[    163719]  : ^2* ^4/saveskin^2 : Save current skin
+[    163735]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[    163735]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[    163750]  : ^2* ^2Key controls :
+[    163750]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[    163766]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[    163766]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[    163781]  : ^2* ^2Join our Discord and thanks for playing !
+[    163797] Command 'help' found, called by 'bennette dangelo'.
+[    175235]  : ^2* ^5LoKo^2 voted for the Battle to begin
+[    175235] Command 'vote' found, called by 'LoKo'.
+[    178735]  : ^2* ^5John Haze^2 voted for the Battle to begin
+[    178750]  : ^2* ^0Voting is over, the Battle will begin soon...
+[    178750] Command 'vote' found, called by 'John Haze'.
+[    285860] Sending heartbeat to live-internal.fivem.net:30110
+[    465906] Sending heartbeat to live-internal.fivem.net:30110
+[    616078] Players stats saved
+[    616469] Players stats saved
+[    616485] Players stats saved
+[    616485] hitch warning: frame time of 407 milliseconds
+[    645953] Sending heartbeat to live-internal.fivem.net:30110
+[    689391]  : ^2* ^5LoKo^2 voted for the Battle to begin
+[    689406] Command 'vote' found, called by 'LoKo'.
+[    699797]  : ^2* ^5John Haze^2 voted for the Battle to begin
+[    699813]  : ^2* ^0Voting is over, the Battle will begin soon...
+[    699813] Command 'vote' found, called by 'John Haze'.
+[    750016]  : ^2* bennette dangelo left (Disconnected.)
+[    750031] Sending heartbeat to live-internal.fivem.net:30110
+[    801078] Players stats saved
+[    801078] Players stats saved
+[    828750]  : ^2* ^5LoKo^2 voted for the Battle to begin
+[    828766] Command 'vote' found, called by 'LoKo'.
+[    850906]  : ^2* ^5John Haze^2 voted for the Battle to begin
+[    850922]  : ^2* ^0Voting is over, the Battle will begin soon...
+[    850922] Command 'vote' found, called by 'John Haze'.
+[    930063] Sending heartbeat to live-internal.fivem.net:30110
+[   1110094] Sending heartbeat to live-internal.fivem.net:30110
+[   1290110] Sending heartbeat to live-internal.fivem.net:30110
+[   1470141] Sending heartbeat to live-internal.fivem.net:30110
+[   1506938] [ERROR] [MySQL] An critical error happens on MySQL for query "INSERT INTO players_stats (pid, gid, spawn, weapon, kills, rank) VALUES (@pid, @gid, @spawn, @weapon, @kills, @rank) {@spawn={"y":-1438.54,"x":-9.96562,"z":1200.0};@gid=3;@rank=1;@kills=0;@pid=2;@weapon=weapon_hammer}": Value does not fall within the expected range.   at System.Net.Sockets.Socket.SetSocketOption (System.Net.Sockets.SocketOptionLevel optionLevel, System.Net.Sockets.SocketOptionName optionName, System.Int32 optionValue) [0x00023] in <7d13762c3f3046279fc4d30c52f6f595>:0 
+[   1506953]   at System.Net.Sockets.Socket.SetSocketOption (System.Net.Sockets.SocketOptionLevel optionLevel, System.Net.Sockets.SocketOptionName optionName, System.Boolean optionValue) [0x00008] in <7d13762c3f3046279fc4d30c52f6f595>:0 
+[   1506953]   at MySql.Data.Serialization.SerializationUtility.SetKeepalive (System.Net.Sockets.Socket socket, System.UInt32 keepAliveTimeSeconds) [0x00000] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[   1506969]   at MySql.Data.Serialization.MySqlSession+<OpenTcpSocketAsync>d__58.MoveNext () [0x003bd] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[   1506969] --- End of stack trace from previous location where exception was thrown ---
+[   1506969]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1506985]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1506985]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1506985]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507000]   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1+ConfiguredTaskAwaiter[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507000]   at MySql.Data.Serialization.MySqlSession+<ConnectAsync>d__49.MoveNext () [0x000ed] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[   1507000] --- End of stack trace from previous location where exception was thrown ---
+[   1507016] Players stats saved
+[   1507016]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507016]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507016]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507031]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507031]   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable+ConfiguredTaskAwaiter.GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507047]   at MySql.Data.MySqlClient.ConnectionPool+<GetSessionAsync>d__0.MoveNext () [0x00467] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[   1507047] --- End of stack trace from previous location where exception was thrown ---
+[   1507047]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507063]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507063]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507063]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507078]   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1+ConfiguredTaskAwaiter[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507078]   at MySql.Data.MySqlClient.MySqlConnection+<CreateSessionAsync>d__68.MoveNext () [0x00102] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[   1507094] --- End of stack trace from previous location where exception was thrown ---
+[   1507094]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507094]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507110]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507110]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507110]   at System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1+ConfiguredTaskAwaiter[TResult].GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507125]   at MySql.Data.MySqlClient.MySqlConnection+<OpenAsync>d__19.MoveNext () [0x000cb] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[   1507125] --- End of stack trace from previous location where exception was thrown ---
+[   1507125]   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507141]   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507141]   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507141]   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507156]   at System.Runtime.CompilerServices.TaskAwaiter.GetResult () [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[   1507156]   at MySQLAsync.Operation`1+<ExecuteAsync>d__3[TResult].MoveNext () [0x000aa] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[   1517469] 1
+[   1517485] 1
+[   1517485] 1
+[   1524031]  : ^2* ^5LoKo^2 voted for the Battle to begin
+[   1524047] Command 'vote' found, called by 'LoKo'.
+[   1528485]  : ^2* ^5John Haze^2 voted for the Battle to begin
+[   1528500]  : ^2* ^0Voting is over, the Battle will begin soon...
+[   1528500] Command 'vote' found, called by 'John Haze'.
+[   1650172] Sending heartbeat to live-internal.fivem.net:30110
+[   1830203] Sending heartbeat to live-internal.fivem.net:30110
+[   1920313] Players stats saved
+[   1920328] Players stats saved
+[   2010235] Sending heartbeat to live-internal.fivem.net:30110
+[   2190266] Sending heartbeat to live-internal.fivem.net:30110
+[   2370328] Sending heartbeat to live-internal.fivem.net:30110
+[   2550375] Sending heartbeat to live-internal.fivem.net:30110
+[   2730406] Sending heartbeat to live-internal.fivem.net:30110
+[   2910422] Sending heartbeat to live-internal.fivem.net:30110
+[   3090469] Sending heartbeat to live-internal.fivem.net:30110
+[   3270500] Sending heartbeat to live-internal.fivem.net:30110
+[   3289406]  : ^2* ^5John Haze^2 voted for the Battle to begin
+[   3289438] Command 'vote' found, called by 'John Haze'.
+[   3299531]  : ^2* LoKo left (Disconnected.)
+[   3299563] Sending heartbeat to live-internal.fivem.net:30110
+[   3306297]  : ^2* John Haze left (Disconnected.)
+[   3306328] Sending heartbeat to live-internal.fivem.net:30110
+[   3486375] Sending heartbeat to live-internal.fivem.net:30110
+[   3524610] Initializing Mono
+[   3524625] Initializing Mono completed
+[   3524641] Hello!
+[   3524719] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[   3524735] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[   3524750] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[   3524750] Found new resource AdvancedFuel in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/AdvancedFuel
+[   3524766] Found new resource afkkick in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/afkkick
+[   3524781] Found new resource assets in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/assets
+[   3524797] Found new resource bob74_ipl in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/bob74_ipl
+[   3524797] Found new resource boussole in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/boussole
+[   3524813] Found new resource client_base in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/client_base
+[   3524828] Found new resource crouch in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/crouch
+[   3524828] Found new resource nodroppnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/nodroppnj
+[   3524844] Found new resource noviseur in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/noviseur
+[   3524860] Found new resource PoliceVehiclesWeaponDeleter in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/PoliceVehiclesWeaponDeleter
+[   3524875] Found new resource trafficpnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/trafficpnj
+[   3524891] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_chat
+[   3524906] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_hardcap
+[   3524906] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_loading
+[   3524922] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_main
+[   3524938] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_scoreboard
+[   3524953] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_spawner
+[   3524953] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[   3524969] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[   3524985] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[   3525000] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[   3525000] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[   3525110] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[   3525125] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[   3525125] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[   3525141] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-hipster
+[   3525156] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-skater
+[   3525172] Found new resource skinvoiture in C:/Users\loko\Desktop\brv-reborn/resources//[stream]/skinvoiture
+[   3525188] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[   3525188] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[   3525203] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[   3525219] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[   3525235] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[   3525235] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[   3525250] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[   3525297] Started resource sessionmanager
+[   3525313] Listening on socket failed - libuv error address already in use.
+[   3525328] net-tcp-server failed to create server: couldn't listenCould not bind MultiplexTcpServer to 0.0.0.0:30120.
+[   3525344] Could not bind on 0.0.0.0:30120 - is this address valid and not already in use?
+[   3525360] Started resource mapmanager
+[   3525391] Started resource brv_chat
+[   3525406] Started resource spawnmanager
+[   3525422] Started resource brv_hardcap
+[   3525453] Started resource rconlog
+[   3525469] Started resource brv_scoreboard
+[   3525485] Started resource baseevents
+[   3525516] Started resource brv_loading
+[   3525547] Started resource brv_main
+[   3525547] Started gametype Battle Royale V
+[   3525563] Started resource brv_spawner
+[   3525578] Started map brv_spawner
+[   3525594] Started resource runcode
+[   3526219] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1316458193
+[   3526235] Instantiated instance of script MySQLAsync.MySQLAsync.
+[   3526250] Started resource mysql-async
+[   3526313] Started resource afkkick
+[   3526360] Started resource assets
+[   3526500] Started resource bob74_ipl
+[   3526688] Started resource boussole
+[   3526781] Started resource AdvancedFuel
+[   3526797] Started resource client_base
+[   3526813] Started resource crouch
+[   3526844] Started resource nodroppnj
+[   3526860] Started resource noviseur
+[   3526891] Started resource PoliceVehiclesWeaponDeleter
+[   3526906] Started resource trafficpnj
+[   3529781] Started resource skinvoiture
+[   3529797] Stopping resource sessionmanager
+[   3529828] Started resource sessionmanager
+[   3529828] Authenticating server license key...
+[   3530360] Server license key authentication succeeded. Welcome!
+[   3530563] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[   3530578] Sending heartbeat to live-internal.fivem.net:30110
+[   3530750] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1316458193
+[   3530860] hitch warning: frame time of 395 milliseconds
+[   3536938] John Haze is connecting...
+[   3537328] Sending heartbeat to live-internal.fivem.net:30110
+[   3537688] bennette dangelo is connecting...
+[   3538781] Sending heartbeat to live-internal.fivem.net:30110
+[   3550188] brv:playerFirstSpawned : 4
+[   3550485]  : ^2* John Haze joined.
+[   3550500]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[   3550500]  : ^2* ^2Available commands :
+[   3550516]  : ^2* ^4/help^2 : Show this message
+[   3550531]  : ^2* ^4/skin^2 : Select new random skin
+[   3550531]  : ^2* ^4/saveskin^2 : Save current skin
+[   3550531]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[   3550547]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[   3550547]  : ^2* ^2Key controls :
+[   3550563]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[   3550563]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[   3550578]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[   3550578]  : ^2* ^2Join our Discord and thanks for playing !
+[   3550594] Command 'help' found, called by 'John Haze'.
+[   3550938]  : ^2* Skin saved (^4a_m_m_hillbilly_01^2)
+[   3576906] brv:playerFirstSpawned : 5
+[   3577266]  : ^2* bennette dangelo joined.
+[   3577281]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[   3577297]  : ^2* ^2Available commands :
+[   3577313]  : ^2* ^4/help^2 : Show this message
+[   3577313]  : ^2* ^4/skin^2 : Select new random skin
+[   3577328]  : ^2* ^4/saveskin^2 : Save current skin
+[   3577344]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[   3577360]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[   3577360]  : ^2* ^2Key controls :
+[   3577375]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[   3577375]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[   3577391]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[   3577391]  : ^2* ^2Join our Discord and thanks for playing !
+[   3577406] Command 'help' found, called by 'bennette dangelo'.
+[   3577406] hitch warning: frame time of 154 milliseconds
+[   3577813]  : ^2* Skin saved (^4a_f_y_eastsa_01^2)
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       109] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       125] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       125] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       141] Found new resource AdvancedFuel in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/AdvancedFuel
+[       156] Found new resource afkkick in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/afkkick
+[       172] Found new resource assets in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/assets
+[       172] Found new resource bob74_ipl in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/bob74_ipl
+[       187] Found new resource boussole in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/boussole
+[       203] Found new resource client_base in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/client_base
+[       219] Found new resource crouch in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/crouch
+[       219] Found new resource nodroppnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/nodroppnj
+[       234] Found new resource noviseur in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/noviseur
+[       250] Found new resource PoliceVehiclesWeaponDeleter in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/PoliceVehiclesWeaponDeleter
+[       266] Found new resource trafficpnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/trafficpnj
+[       266] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_chat
+[       281] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_hardcap
+[       297] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_loading
+[       312] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_main
+[       312] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_scoreboard
+[       328] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_spawner
+[       344] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       359] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       375] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       375] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       391] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       406] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       422] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       437] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       437] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-hipster
+[       453] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-skater
+[       469] Found new resource skinvoiture in C:/Users\loko\Desktop\brv-reborn/resources//[stream]/skinvoiture
+[       469] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[       484] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[       500] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[       516] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[       516] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[       531] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[       547] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[       594] Started resource sessionmanager
+[       625] Started resource mapmanager
+[       656] Started resource brv_chat
+[       672] Started resource spawnmanager
+[       687] Started resource brv_hardcap
+[       703] Started resource rconlog
+[       734] Started resource brv_scoreboard
+[       750] Started resource baseevents
+[       781] Started resource brv_loading
+[       812] Started resource brv_main
+[       812] Started gametype Battle Royale V
+[       828] Started resource brv_spawner
+[       844] Started map brv_spawner
+[       859] Started resource runcode
+[      1484] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1618787209
+[      1516] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1531] Started resource mysql-async
+[      1578] Started resource afkkick
+[      1609] Started resource assets
+[      1625] Started resource bob74_ipl
+[      1656] Started resource boussole
+[      1687] Started resource AdvancedFuel
+[      1703] Started resource client_base
+[      1719] Started resource crouch
+[      1734] Started resource nodroppnj
+[      1750] Started resource noviseur
+[      1766] Started resource PoliceVehiclesWeaponDeleter
+[      1781] Started resource trafficpnj
+[      4234] Started resource skinvoiture
+[      4250] Stopping resource sessionmanager
+[      4266] Started resource sessionmanager
+[      4281] Authenticating server license key...
+[      4625] Server license key authentication succeeded. Welcome!
+[      4687] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      4703] Sending heartbeat to live-internal.fivem.net:30110
+[      4891] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1618787209
+[      4984] hitch warning: frame time of 299 milliseconds
+[     26078] LoKo is connecting...
+[     27750] Sending heartbeat to live-internal.fivem.net:30110
+[     34344] John Haze is connecting...
+[     35562] Sending heartbeat to live-internal.fivem.net:30110
+[     46266] brv:playerFirstSpawned : 2
+[     46328] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1618787209
+[     46391] bennette dangelo is connecting...
+[     46656] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1618787209
+[     46891]  : ^2* John Haze joined.
+[     46906]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[     46906]  : ^2* ^2Available commands :
+[     46922]  : ^2* ^4/help^2 : Show this message
+[     46922]  : ^2* ^4/skin^2 : Select new random skin
+[     46937]  : ^2* ^4/saveskin^2 : Save current skin
+[     46937]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[     46953]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[     46953]  : ^2* ^2Key controls :
+[     46969]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[     46969]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[     46984]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[     46984]  : ^2* ^2Join our Discord and thanks for playing !
+[     47000] Command 'help' found, called by 'John Haze'.
+[     47031] hitch warning: frame time of 162 milliseconds
+[     49469] Sending heartbeat to live-internal.fivem.net:30110
+[     56891]  : ^2* ^5John Haze^2 voted for the Battle to begin
+[     56891] Command 'vote' found, called by 'John Haze'.
+[     66906] brv:playerFirstSpawned : 3
+[     67250]  : ^2* bennette dangelo joined.
+[     67266]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[     67266]  : ^2* ^2Available commands :
+[     67281]  : ^2* ^4/help^2 : Show this message
+[     67281]  : ^2* ^4/skin^2 : Select new random skin
+[     67297]  : ^2* ^4/saveskin^2 : Save current skin
+[     67297]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[     67312]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[     67312]  : ^2* ^2Key controls :
+[     67328]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[     67344]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[     67344]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[     67359]  : ^2* ^2Join our Discord and thanks for playing !
+[     67359] Command 'help' found, called by 'bennette dangelo'.
+[     80312] brv:playerFirstSpawned : 1
+[     80656]  : ^2* LoKo joined.
+[     80672]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[     80672]  : ^2* ^2Available commands :
+[     80687]  : ^2* ^4/help^2 : Show this message
+[     80703]  : ^2* ^4/skin^2 : Select new random skin
+[     80703]  : ^2* ^4/saveskin^2 : Save current skin
+[     80719]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[     80719]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[     80734]  : ^2* ^2Key controls :
+[     80734]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[     80750]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[     80750]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[     80766]  : ^2* ^2Join our Discord and thanks for playing !
+[     80766] Command 'help' found, called by 'LoKo'.
+[     90172]  : ^2* ^5bennette dangelo^2 voted for the Battle to begin
+[     90187]  : ^2* ^0Voting is over, the Battle will begin soon...
+[     90203] Command 'vote' found, called by 'bennette dangelo'.
+[    106437] Command 'skin' found, called by 'bennette dangelo'.
+[    208953] Stopping resource trafficpnj
+[    229516] Sending heartbeat to live-internal.fivem.net:30110
+[    244234] Started resource trafficpnj
+[    409547] Sending heartbeat to live-internal.fivem.net:30110
+[    451125] Players stats saved
+[    451141] Players stats saved
+[    451141] Players stats saved
+[    473344] Command 'skin' found, called by 'John Haze'.
+[    532687] Stopping resource assets
+[    532969] Started resource assets
+[    532984] hitch warning: frame time of 290 milliseconds
+[    573266]  : ^2* ^5LoKo^2 voted for the Battle to begin
+[    573266] Command 'vote' found, called by 'LoKo'.
+[    582062]  : ^2* ^5John Haze^2 voted for the Battle to begin
+[    582078]  : ^2* ^0Voting is over, the Battle will begin soon...
+[    582094] Command 'vote' found, called by 'John Haze'.
+[    589578] Sending heartbeat to live-internal.fivem.net:30110
+[    590375]  : ^2* ^5bennette dangelo^2 voted for the Battle to begin
+[    590391]  : ^2* ^0Voting is over, the Battle will begin soon...
+[    590391] Command 'vote' found, called by 'bennette dangelo'.
+[    603937]  : ^2* You already voted
+[    603937] Command 'vote' found, called by 'bennette dangelo'.
+[    769609] Sending heartbeat to live-internal.fivem.net:30110
+[    858375] 1
+[    858375] 1
+[    858391] 1
+[    865969] Players stats saved
+[    865984] Players stats saved
+[    865984] Players stats saved
+[    892641]  : ^2* ^5LoKo^2 voted for the Battle to begin
+[    892656] Command 'vote' found, called by 'LoKo'.
+[    899500]  : ^2* ^5John Haze^2 voted for the Battle to begin
+[    899516]  : ^2* ^0Voting is over, the Battle will begin soon...
+[    899531] Command 'vote' found, called by 'John Haze'.
+[    949641] Sending heartbeat to live-internal.fivem.net:30110
+[    956953] Players stats saved
+[    956953] Players stats saved
+[    956969] Players stats saved
+[   1020641]  : ^2* ^5John Haze^2 voted for the Battle to begin
+[   1020656] Command 'vote' found, called by 'John Haze'.
+[   1081141] Stopping resource brv_spawner
+[   1081141] Stopping resource brv_main
+[   1081172] Started resource brv_main
+[   1081187] Started gametype Battle Royale V
+[   1081281] Started resource brv_spawner
+[   1081297] Started map brv_spawner
+[   1082578] brv:playerFirstSpawned : 2
+[   1082828]  : ^2* John Haze joined.
+[   1082844]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[   1082859]  : ^2* ^2Available commands :
+[   1082859]  : ^2* ^4/help^2 : Show this message
+[   1082875]  : ^2* ^4/skin^2 : Select new random skin
+[   1082875]  : ^2* ^4/saveskin^2 : Save current skin
+[   1082891]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[   1082906]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[   1082906]  : ^2* ^2Key controls :
+[   1082922]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[   1082922]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[   1082937]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[   1082937]  : ^2* ^2Join our Discord and thanks for playing !
+[   1082953] Command 'help' found, called by 'John Haze'.
+[   1082953] brv:playerFirstSpawned : 1
+[   1083187]  : ^2* LoKo joined.
+[   1083187]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[   1083203]  : ^2* ^2Available commands :
+[   1083219]  : ^2* ^4/help^2 : Show this message
+[   1083219]  : ^2* ^4/skin^2 : Select new random skin
+[   1083234]  : ^2* ^4/saveskin^2 : Save current skin
+[   1083234]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[   1083250]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[   1083250]  : ^2* ^2Key controls :
+[   1083266]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[   1083266]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[   1083281]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[   1083281]  : ^2* ^2Join our Discord and thanks for playing !
+[   1083297] Command 'help' found, called by 'LoKo'.
+[   1083297] brv:playerFirstSpawned : 3
+[   1083531]  : ^2* bennette dangelo joined.
+[   1083547]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[   1083547]  : ^2* ^2Available commands :
+[   1083562]  : ^2* ^4/help^2 : Show this message
+[   1083562]  : ^2* ^4/skin^2 : Select new random skin
+[   1083578]  : ^2* ^4/saveskin^2 : Save current skin
+[   1083578]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[   1083594]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[   1083594]  : ^2* ^2Key controls :
+[   1083609]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[   1083609]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[   1083625]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[   1083625]  : ^2* ^2Join our Discord and thanks for playing !
+[   1083641] Command 'help' found, called by 'bennette dangelo'.
+[   1090141]  : ^2* ^5LoKo^2 voted for the Battle to begin
+[   1090141] Command 'vote' found, called by 'LoKo'.
+[   1098750]  : ^2* John Haze left (Disconnected.)
+[   1098797] Sending heartbeat to live-internal.fivem.net:30110
+[   1105203]  : ^2* ^5bennette dangelo^2 voted for the Battle to begin
+[   1105203]  : ^2* ^0Voting is over, the Battle will begin soon...
+[   1105219] Command 'vote' found, called by 'bennette dangelo'.
+[   1118828] Got a late vouch for bennette dangelo - they're the current arbitrator!
+[   1119141] Got a late vouch for bennette dangelo - they're the current arbitrator!
+[   1278828] Sending heartbeat to live-internal.fivem.net:30110
+[   1458875] Sending heartbeat to live-internal.fivem.net:30110
+[   1466219] Players stats saved
+[   1466219] Players stats saved
+[   1487187]  : ^2* bennette dangelo left (Disconnected.)
+[   1487187] Sending heartbeat to live-internal.fivem.net:30110
+[   1509344] Got a late vouch for LoKo - they're the current arbitrator!
+[   1667203] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[       125] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       140] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       156] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       156] Found new resource AdvancedFuel in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/AdvancedFuel
+[       172] Found new resource afkkick in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/afkkick
+[       187] Found new resource assets in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/assets
+[       187] Found new resource bob74_ipl in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/bob74_ipl
+[       203] Found new resource boussole in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/boussole
+[       219] Found new resource client_base in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/client_base
+[       234] Found new resource crouch in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/crouch
+[       234] Found new resource nodroppnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/nodroppnj
+[       250] Found new resource noviseur in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/noviseur
+[       265] Found new resource PoliceVehiclesWeaponDeleter in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/PoliceVehiclesWeaponDeleter
+[       281] Found new resource pubg_aim in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/pubg_aim
+[       281] Found new resource trafficpnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/trafficpnj
+[       297] Resource loading for trafficpnj failed:
+[       312] Could not parse resource metadata file C:/Users\loko\Desktop\brv-reborn/resources//[addons]/trafficpnj/__resource.lua: ...brv-reborn/resources//[addons]/trafficpnj/__resource.lua:7: '}' expected (to close '{' at line 5) near ''carspawner.lua''
+[       312] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_chat
+[       328] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_hardcap
+[       344] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_loading
+[       359] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_main
+[       375] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_scoreboard
+[       390] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_spawner
+[       406] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       422] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       437] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       453] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       469] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       469] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       484] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       500] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       515] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-hipster
+[       515] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-skater
+[       531] Found new resource skinvoiture in C:/Users\loko\Desktop\brv-reborn/resources//[stream]/skinvoiture
+[       547] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[       547] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[       562] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[       578] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[       594] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[       609] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[       625] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[       672] Started resource sessionmanager
+[       703] Started resource mapmanager
+[       719] Started resource brv_chat
+[       750] Started resource spawnmanager
+[       765] Started resource brv_hardcap
+[       781] Started resource rconlog
+[       797] Started resource brv_scoreboard
+[       828] Started resource baseevents
+[       844] Started resource brv_loading
+[       875] Started resource brv_main
+[       890] Started gametype Battle Royale V
+[       906] Started resource brv_spawner
+[       906] Started map brv_spawner
+[       937] Started resource runcode
+[      1734] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1057787771
+[      1765] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1781] Started resource mysql-async
+[      1844] Started resource afkkick
+[      2062] Started resource assets
+[      2078] Started resource bob74_ipl
+[      2094] Started resource boussole
+[      2125] Started resource AdvancedFuel
+[      2140] Started resource client_base
+[      2156] Started resource crouch
+[      2172] Started resource nodroppnj
+[      2187] Started resource noviseur
+[      2219] Started resource PoliceVehiclesWeaponDeleter
+[      2234] Started resource trafficpnj
+[      4797] Started resource skinvoiture
+[      4828] Started resource pubg_aim
+[      4844] Stopping resource sessionmanager
+[      4859] Started resource sessionmanager
+[      4875] Authenticating server license key...
+[      5390] Server license key authentication succeeded. Welcome!
+[      5453] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      5469] Sending heartbeat to live-internal.fivem.net:30110
+[      5687] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1057787771
+[      5812] hitch warning: frame time of 351 milliseconds
+[     26750] LoKo is connecting...
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[       140] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       156] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       156] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       172] Found new resource AdvancedFuel in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/AdvancedFuel
+[       187] Found new resource afkkick in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/afkkick
+[       187] Found new resource assets in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/assets
+[       203] Found new resource bob74_ipl in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/bob74_ipl
+[       218] Found new resource boussole in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/boussole
+[       234] Found new resource client_base in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/client_base
+[       234] Found new resource crouch in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/crouch
+[       250] Found new resource nodroppnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/nodroppnj
+[       265] Found new resource noviseur in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/noviseur
+[       281] Found new resource PoliceVehiclesWeaponDeleter in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/PoliceVehiclesWeaponDeleter
+[       281] Found new resource pubg_aim in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/pubg_aim
+[       297] Found new resource trafficpnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/trafficpnj
+[       312] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_chat
+[       328] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_hardcap
+[       343] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_loading
+[       343] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_main
+[       359] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_scoreboard
+[       375] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_spawner
+[       390] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       390] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       406] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       422] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       437] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       453] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       468] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       484] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       500] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-hipster
+[       500] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-skater
+[       515] Found new resource skinvoiture in C:/Users\loko\Desktop\brv-reborn/resources//[stream]/skinvoiture
+[       531] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[       547] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[       562] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[       578] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[       593] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[       609] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[       609] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[       656] Started resource sessionmanager
+[       687] Started resource mapmanager
+[       718] Started resource brv_chat
+[       734] Started resource spawnmanager
+[       750] Started resource brv_hardcap
+[       765] Started resource rconlog
+[       781] Started resource brv_scoreboard
+[       812] Started resource baseevents
+[       828] Started resource brv_loading
+[       859] Started resource brv_main
+[       875] Started gametype Battle Royale V
+[       890] Started resource brv_spawner
+[       890] Started map brv_spawner
+[       922] Started resource runcode
+[      1578] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_89711043
+[      1609] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1984] Started resource mysql-async
+[      2031] Started resource afkkick
+[      2234] Started resource assets
+[      2250] Started resource bob74_ipl
+[      2281] Started resource boussole
+[      2312] Started resource AdvancedFuel
+[      2328] Started resource client_base
+[      2343] Started resource crouch
+[      2359] Started resource nodroppnj
+[      2375] Started resource noviseur
+[      2390] Started resource PoliceVehiclesWeaponDeleter
+[      2406] Started resource trafficpnj
+[      4984] Started resource skinvoiture
+[      5000] Started resource pubg_aim
+[      5015] Stopping resource sessionmanager
+[      5031] Started resource sessionmanager
+[      5047] Authenticating server license key...
+[      5453] Server license key authentication succeeded. Welcome!
+[      5515] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      5531] Sending heartbeat to live-internal.fivem.net:30110
+[      5703] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_89711043
+[      5828] hitch warning: frame time of 288 milliseconds
+[    185562] Sending heartbeat to live-internal.fivem.net:30110
+[    365625] Sending heartbeat to live-internal.fivem.net:30110
+[    545640] Sending heartbeat to live-internal.fivem.net:30110
+[    725656] Sending heartbeat to live-internal.fivem.net:30110
+[    905687] Sending heartbeat to live-internal.fivem.net:30110
+[   1085750] Sending heartbeat to live-internal.fivem.net:30110
+[   1265781] Sending heartbeat to live-internal.fivem.net:30110
+[   1445828] Sending heartbeat to live-internal.fivem.net:30110
+[   1625843] Sending heartbeat to live-internal.fivem.net:30110
+[   1805859] Sending heartbeat to live-internal.fivem.net:30110
+[   1985922] Sending heartbeat to live-internal.fivem.net:30110
+[   2165953] Sending heartbeat to live-internal.fivem.net:30110
+[   2345984] Sending heartbeat to live-internal.fivem.net:30110
+[   2526047] Sending heartbeat to live-internal.fivem.net:30110
+[   2706093] Sending heartbeat to live-internal.fivem.net:30110
+[   2886156] Sending heartbeat to live-internal.fivem.net:30110
+[   3066203] Sending heartbeat to live-internal.fivem.net:30110
+[   3246234] Sending heartbeat to live-internal.fivem.net:30110
+[   3426281] Sending heartbeat to live-internal.fivem.net:30110
+[   3606328] Sending heartbeat to live-internal.fivem.net:30110
+[   3786375] Sending heartbeat to live-internal.fivem.net:30110
+[   3966437] Sending heartbeat to live-internal.fivem.net:30110
+[   4146437] Sending heartbeat to live-internal.fivem.net:30110
+[   4326500] Sending heartbeat to live-internal.fivem.net:30110
+[   4506515] Sending heartbeat to live-internal.fivem.net:30110
+[   4686531] Sending heartbeat to live-internal.fivem.net:30110
+[   4866547] Sending heartbeat to live-internal.fivem.net:30110
+[   5046578] Sending heartbeat to live-internal.fivem.net:30110
+[   5226609] Sending heartbeat to live-internal.fivem.net:30110
+[   5406625] Sending heartbeat to live-internal.fivem.net:30110
+[   5586640] Sending heartbeat to live-internal.fivem.net:30110
+[   5766687] Sending heartbeat to live-internal.fivem.net:30110
+[   5946734] Sending heartbeat to live-internal.fivem.net:30110
+[   6126750] Sending heartbeat to live-internal.fivem.net:30110
+[   6306797] Sending heartbeat to live-internal.fivem.net:30110
+[   6486843] Sending heartbeat to live-internal.fivem.net:30110
+[   6666906] Sending heartbeat to live-internal.fivem.net:30110
+[   6846968] Sending heartbeat to live-internal.fivem.net:30110
+[   7026984] Sending heartbeat to live-internal.fivem.net:30110
+[   7207031] Sending heartbeat to live-internal.fivem.net:30110
+[   7387093] Sending heartbeat to live-internal.fivem.net:30110
+[   7567140] Sending heartbeat to live-internal.fivem.net:30110
+[   7747156] Sending heartbeat to live-internal.fivem.net:30110
+[   7927187] Sending heartbeat to live-internal.fivem.net:30110
+[   8107234] Sending heartbeat to live-internal.fivem.net:30110
+[   8287297] Sending heartbeat to live-internal.fivem.net:30110
+[   8467359] Sending heartbeat to live-internal.fivem.net:30110
+[   8647406] Sending heartbeat to live-internal.fivem.net:30110
+[   8658343] Philippe Allavena is connecting...
+[   8662562] Sending heartbeat to live-internal.fivem.net:30110
+[   8675422] brv:playerFirstSpawned : 1
+[   8675484] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_89711043
+[   8675812] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_89711043
+[   8676828]  : ^2* Philippe Allavena joined.
+[   8676843]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[   8676843]  : ^2* ^2Available commands :
+[   8676859]  : ^2* ^4/help^2 : Show this message
+[   8676859]  : ^2* ^4/skin^2 : Select new random skin
+[   8676875]  : ^2* ^4/saveskin^2 : Save current skin
+[   8676890]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[   8676890]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[   8676906]  : ^2* ^2Key controls :
+[   8676906]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[   8676922]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[   8676922]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[   8676937]  : ^2* ^2Join our Discord and thanks for playing !
+[   8676953] Command 'help' found, called by 'Philippe Allavena'.
+[   8701640]  : ^2* ^5Philippe Allavena^2 voted for the Battle to begin
+[   8701656] Command 'vote' found, called by 'Philippe Allavena'.
+[   8725922]  : ^2* Philippe Allavena left (Disconnected.)
+[   8725953] Sending heartbeat to live-internal.fivem.net:30110
+[   8905968] Sending heartbeat to live-internal.fivem.net:30110
+[   9086015] Sending heartbeat to live-internal.fivem.net:30110
+[   9266062] Sending heartbeat to live-internal.fivem.net:30110
+[   9446078] Sending heartbeat to live-internal.fivem.net:30110
+[   9626125] Sending heartbeat to live-internal.fivem.net:30110
+[   9806172] Sending heartbeat to live-internal.fivem.net:30110
+[   9986218] Sending heartbeat to live-internal.fivem.net:30110
+[  10166265] Sending heartbeat to live-internal.fivem.net:30110
+[  10346312] Sending heartbeat to live-internal.fivem.net:30110
+[  10526343] Sending heartbeat to live-internal.fivem.net:30110
+[  10706390] Sending heartbeat to live-internal.fivem.net:30110
+[  10886406] Sending heartbeat to live-internal.fivem.net:30110
+[  11066422] Sending heartbeat to live-internal.fivem.net:30110
+[  11246468] Sending heartbeat to live-internal.fivem.net:30110
+[  11426500] Sending heartbeat to live-internal.fivem.net:30110
+[  11606515] Sending heartbeat to live-internal.fivem.net:30110
+[  11786562] Sending heartbeat to live-internal.fivem.net:30110
+[  11966593] Sending heartbeat to live-internal.fivem.net:30110
+[  12146625] Sending heartbeat to live-internal.fivem.net:30110
+[  12326672] Sending heartbeat to live-internal.fivem.net:30110
+[  12506734] Sending heartbeat to live-internal.fivem.net:30110
+[  12686750] Sending heartbeat to live-internal.fivem.net:30110
+[  12866812] Sending heartbeat to live-internal.fivem.net:30110
+[  13046812] Sending heartbeat to live-internal.fivem.net:30110
+[  13226859] Sending heartbeat to live-internal.fivem.net:30110
+[  13406922] Sending heartbeat to live-internal.fivem.net:30110
+[  13586922] Sending heartbeat to live-internal.fivem.net:30110
+[  13766968] Sending heartbeat to live-internal.fivem.net:30110
+[  13947015] Sending heartbeat to live-internal.fivem.net:30110
+[  14127062] Sending heartbeat to live-internal.fivem.net:30110
+[  14307078] Sending heartbeat to live-internal.fivem.net:30110
+[  14487125] Sending heartbeat to live-internal.fivem.net:30110
+[  14667187] Sending heartbeat to live-internal.fivem.net:30110
+[  14847203] Sending heartbeat to live-internal.fivem.net:30110
+[  15027265] Sending heartbeat to live-internal.fivem.net:30110
+[  15207281] Sending heartbeat to live-internal.fivem.net:30110
+[  15387312] Sending heartbeat to live-internal.fivem.net:30110
+[  15567359] Sending heartbeat to live-internal.fivem.net:30110
+[  15747406] Sending heartbeat to live-internal.fivem.net:30110
+[  15927468] Sending heartbeat to live-internal.fivem.net:30110
+[  16107500] Sending heartbeat to live-internal.fivem.net:30110
+[  16287562] Sending heartbeat to live-internal.fivem.net:30110
+[  16467609] Sending heartbeat to live-internal.fivem.net:30110
+[  16490672] Medih Fuz is connecting...
+[  16495578] Sending heartbeat to live-internal.fivem.net:30110
+[  16549765] brv:playerFirstSpawned : 2
+[  16550718]  : ^2* Medih Fuz joined.
+[  16550734]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[  16550734]  : ^2* ^2Available commands :
+[  16550750]  : ^2* ^4/help^2 : Show this message
+[  16550750]  : ^2* ^4/skin^2 : Select new random skin
+[  16550765]  : ^2* ^4/saveskin^2 : Save current skin
+[  16550781]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[  16550781]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[  16550797]  : ^2* ^2Key controls :
+[  16550812]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[  16550812]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[  16550828]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[  16550843]  : ^2* ^2Join our Discord and thanks for playing !
+[  16550843] Command 'help' found, called by 'Medih Fuz'.
+[  16574890]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[  16574906]  : ^2* ^2Available commands :
+[  16574906]  : ^2* ^4/help^2 : Show this message
+[  16574922]  : ^2* ^4/skin^2 : Select new random skin
+[  16574922]  : ^2* ^4/saveskin^2 : Save current skin
+[  16574937]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[  16574953]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[  16574968]  : ^2* ^2Key controls :
+[  16574968]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[  16574984]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[  16575000]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[  16575015]  : ^2* ^2Join our Discord and thanks for playing !
+[  16575015] Command 'help' found, called by 'Medih Fuz'.
+[  16622218]  : ^2* ^5Medih Fuz^2 voted for the Battle to begin
+[  16622234] Command 'vote' found, called by 'Medih Fuz'.
+[  16653625]  : ^2* Medih Fuz left (Disconnected.)
+[  16653640] Sending heartbeat to live-internal.fivem.net:30110
+[  16833672] Sending heartbeat to live-internal.fivem.net:30110
+[  17013734] Sending heartbeat to live-internal.fivem.net:30110
+[  17193781] Sending heartbeat to live-internal.fivem.net:30110
+[  17373812] Sending heartbeat to live-internal.fivem.net:30110
+[  17553828] Sending heartbeat to live-internal.fivem.net:30110
+[  17733890] Sending heartbeat to live-internal.fivem.net:30110
+[  17913922] Sending heartbeat to live-internal.fivem.net:30110
+[  17944484] Ross1396 is connecting...
+[  17949547] Sending heartbeat to live-internal.fivem.net:30110
+[  17998437] brv:playerFirstSpawned : 3
+[  17999343]  : ^2* Ross1396 joined.
+[  17999343]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[  17999359]  : ^2* ^2Available commands :
+[  17999375]  : ^2* ^4/help^2 : Show this message
+[  17999375]  : ^2* ^4/skin^2 : Select new random skin
+[  17999390]  : ^2* ^4/saveskin^2 : Save current skin
+[  17999390]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[  17999406]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[  17999422]  : ^2* ^2Key controls :
+[  17999422]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[  17999437]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[  17999437]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[  17999453]  : ^2* ^2Join our Discord and thanks for playing !
+[  17999468] Command 'help' found, called by 'Ross1396'.
+[  18065625]  : ^2* Ross1396 left (Disconnected.)
+[  18065640] Sending heartbeat to live-internal.fivem.net:30110
+[  18245656] Sending heartbeat to live-internal.fivem.net:30110
+[  18425703] Sending heartbeat to live-internal.fivem.net:30110
+[  18605734] Sending heartbeat to live-internal.fivem.net:30110
+[  18785797] Sending heartbeat to live-internal.fivem.net:30110
+[  18965828] Sending heartbeat to live-internal.fivem.net:30110
+[  19145843] Sending heartbeat to live-internal.fivem.net:30110
+[  19325875] Sending heartbeat to live-internal.fivem.net:30110
+[  19505937] Sending heartbeat to live-internal.fivem.net:30110
+[  19686000] Sending heartbeat to live-internal.fivem.net:30110
+[  19866015] Sending heartbeat to live-internal.fivem.net:30110
+[  20046047] Sending heartbeat to live-internal.fivem.net:30110
+[  20226078] Sending heartbeat to live-internal.fivem.net:30110
+[  20406140] Sending heartbeat to live-internal.fivem.net:30110
+[  20586172] Sending heartbeat to live-internal.fivem.net:30110
+[  20766218] Sending heartbeat to live-internal.fivem.net:30110
+[  20946250] Sending heartbeat to live-internal.fivem.net:30110
+[  21126297] Sending heartbeat to live-internal.fivem.net:30110
+[  21306328] Sending heartbeat to live-internal.fivem.net:30110
+[  21486390] Sending heartbeat to live-internal.fivem.net:30110
+[  21666437] Sending heartbeat to live-internal.fivem.net:30110
+[  21846484] Sending heartbeat to live-internal.fivem.net:30110
+[  22026547] Sending heartbeat to live-internal.fivem.net:30110
+[  22206562] Sending heartbeat to live-internal.fivem.net:30110
+[  22386578] Sending heartbeat to live-internal.fivem.net:30110
+[  22509218] Ricardo Sousa is connecting...
+[  22513953] Sending heartbeat to live-internal.fivem.net:30110
+[  22693984] Sending heartbeat to live-internal.fivem.net:30110
+[  22739531] Sending heartbeat to live-internal.fivem.net:30110
+[  22919578] Sending heartbeat to live-internal.fivem.net:30110
+[  23099625] Sending heartbeat to live-internal.fivem.net:30110
+[  23279672] Sending heartbeat to live-internal.fivem.net:30110
+[  23459718] Sending heartbeat to live-internal.fivem.net:30110
+[  23639765] Sending heartbeat to live-internal.fivem.net:30110
+[  23819812] Sending heartbeat to live-internal.fivem.net:30110
+[  23999859] Sending heartbeat to live-internal.fivem.net:30110
+[  24179875] Sending heartbeat to live-internal.fivem.net:30110
+[  24359922] Sending heartbeat to live-internal.fivem.net:30110
+[  24539953] Sending heartbeat to live-internal.fivem.net:30110
+[  24720015] Sending heartbeat to live-internal.fivem.net:30110
+[  24900062] Sending heartbeat to live-internal.fivem.net:30110
+[  25080125] Sending heartbeat to live-internal.fivem.net:30110
+[  25260140] Sending heartbeat to live-internal.fivem.net:30110
+[  25440187] Sending heartbeat to live-internal.fivem.net:30110
+[  25620234] Sending heartbeat to live-internal.fivem.net:30110
+[  25800281] Sending heartbeat to live-internal.fivem.net:30110
+[  25980297] Sending heartbeat to live-internal.fivem.net:30110
+[  26160312] Sending heartbeat to live-internal.fivem.net:30110
+[  26340359] Sending heartbeat to live-internal.fivem.net:30110
+[  26520375] Sending heartbeat to live-internal.fivem.net:30110
+[  26700422] Sending heartbeat to live-internal.fivem.net:30110
+[  26880453] Sending heartbeat to live-internal.fivem.net:30110
+[  27060468] Sending heartbeat to live-internal.fivem.net:30110
+[  27240531] Sending heartbeat to live-internal.fivem.net:30110
+[  27420562] Sending heartbeat to live-internal.fivem.net:30110
+[  27600625] Sending heartbeat to live-internal.fivem.net:30110
+[  27780656] Sending heartbeat to live-internal.fivem.net:30110
+[  27960672] Sending heartbeat to live-internal.fivem.net:30110
+[  28140703] Sending heartbeat to live-internal.fivem.net:30110
+[  28320734] Sending heartbeat to live-internal.fivem.net:30110
+[  28430015] samuka is connecting...
+[  28487765] Sending heartbeat to live-internal.fivem.net:30110
+[  28583812] brv:playerFirstSpawned : 5
+[  28584765]  : ^2* samuka joined.
+[  28584765]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[  28584781]  : ^2* ^2Available commands :
+[  28584781]  : ^2* ^4/help^2 : Show this message
+[  28584797]  : ^2* ^4/skin^2 : Select new random skin
+[  28584812]  : ^2* ^4/saveskin^2 : Save current skin
+[  28584812]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[  28584828]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[  28584828]  : ^2* ^2Key controls :
+[  28584843]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[  28584859]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[  28584859]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[  28584875]  : ^2* ^2Join our Discord and thanks for playing !
+[  28584890] Command 'help' found, called by 'samuka'.
+[  28638703]  : ^2* ^5samuka^2 voted for the Battle to begin
+[  28638718] Command 'vote' found, called by 'samuka'.
+[  28667015]  : ^2* You already voted
+[  28667031] Command 'vote' found, called by 'samuka'.
+[  28667812] Sending heartbeat to live-internal.fivem.net:30110
+[  28784672]  : ^2* samuka left (Disconnected.)
+[  28784703] Sending heartbeat to live-internal.fivem.net:30110
+[  28964734] Sending heartbeat to live-internal.fivem.net:30110
+[  29144781] Sending heartbeat to live-internal.fivem.net:30110
+[  29324843] Sending heartbeat to live-internal.fivem.net:30110
+[  29504890] Sending heartbeat to live-internal.fivem.net:30110
+[  29684922] Sending heartbeat to live-internal.fivem.net:30110
+[  29864968] Sending heartbeat to live-internal.fivem.net:30110
+[  30045015] Sending heartbeat to live-internal.fivem.net:30110
+[  30225062] Sending heartbeat to live-internal.fivem.net:30110
+[  30405093] Sending heartbeat to live-internal.fivem.net:30110
+[  30585140] Sending heartbeat to live-internal.fivem.net:30110
+[  30765156] Sending heartbeat to live-internal.fivem.net:30110
+[  30945203] Sending heartbeat to live-internal.fivem.net:30110
+[  31125265] Sending heartbeat to live-internal.fivem.net:30110
+[  31305297] Sending heartbeat to live-internal.fivem.net:30110
+[  31485343] Sending heartbeat to live-internal.fivem.net:30110
+[  31665375] Sending heartbeat to live-internal.fivem.net:30110
+[  31845406] Sending heartbeat to live-internal.fivem.net:30110
+[  32025468] Sending heartbeat to live-internal.fivem.net:30110
+[  32205515] Sending heartbeat to live-internal.fivem.net:30110
+[  32385562] Sending heartbeat to live-internal.fivem.net:30110
+[  32565593] Sending heartbeat to live-internal.fivem.net:30110
+[  32745640] Sending heartbeat to live-internal.fivem.net:30110
+[  32925703] Sending heartbeat to live-internal.fivem.net:30110
+[  33105734] Sending heartbeat to live-internal.fivem.net:30110
+[  33285750] Sending heartbeat to live-internal.fivem.net:30110
+[  33465797] Sending heartbeat to live-internal.fivem.net:30110
+[  33645859] Sending heartbeat to live-internal.fivem.net:30110
+[  33825906] Sending heartbeat to live-internal.fivem.net:30110
+[  34005922] Sending heartbeat to live-internal.fivem.net:30110
+[  34185937] Sending heartbeat to live-internal.fivem.net:30110
+[  34365953] Sending heartbeat to live-internal.fivem.net:30110
+[  34545984] Sending heartbeat to live-internal.fivem.net:30110
+[  34726015] Sending heartbeat to live-internal.fivem.net:30110
+[  34906062] Sending heartbeat to live-internal.fivem.net:30110
+[  35086125] Sending heartbeat to live-internal.fivem.net:30110
+[  35266156] Sending heartbeat to live-internal.fivem.net:30110
+[  35446203] Sending heartbeat to live-internal.fivem.net:30110
+[  35626218] Sending heartbeat to live-internal.fivem.net:30110
+[  35806281] Sending heartbeat to live-internal.fivem.net:30110
+[  35986312] Sending heartbeat to live-internal.fivem.net:30110
+[  36166375] Sending heartbeat to live-internal.fivem.net:30110
+[  36346422] Sending heartbeat to live-internal.fivem.net:30110
+[  36526484] Sending heartbeat to live-internal.fivem.net:30110
+[  36706515] Sending heartbeat to live-internal.fivem.net:30110
+[  36886578] Sending heartbeat to live-internal.fivem.net:30110
+[  37066625] Sending heartbeat to live-internal.fivem.net:30110
+[  37246672] Sending heartbeat to live-internal.fivem.net:30110
+[  37426718] Sending heartbeat to live-internal.fivem.net:30110
+[  37606750] Sending heartbeat to live-internal.fivem.net:30110
+[  37786812] Sending heartbeat to live-internal.fivem.net:30110
+[  37966875] Sending heartbeat to live-internal.fivem.net:30110
+[  38146875] Sending heartbeat to live-internal.fivem.net:30110
+[  38326937] Sending heartbeat to live-internal.fivem.net:30110
+[  38506984] Sending heartbeat to live-internal.fivem.net:30110
+[  38687031] Sending heartbeat to live-internal.fivem.net:30110
+[  38867062] Sending heartbeat to live-internal.fivem.net:30110
+[  39047109] Sending heartbeat to live-internal.fivem.net:30110
+[  39227156] Sending heartbeat to live-internal.fivem.net:30110
+[  39407203] Sending heartbeat to live-internal.fivem.net:30110
+[  39587250] Sending heartbeat to live-internal.fivem.net:30110
+[  39767265] Sending heartbeat to live-internal.fivem.net:30110
+[  39947297] Sending heartbeat to live-internal.fivem.net:30110
+[  40127312] Sending heartbeat to live-internal.fivem.net:30110
+[  40307375] Sending heartbeat to live-internal.fivem.net:30110
+[  40487422] Sending heartbeat to live-internal.fivem.net:30110
+[  40667484] Sending heartbeat to live-internal.fivem.net:30110
+[  40847500] Sending heartbeat to live-internal.fivem.net:30110
+[  41027547] Sending heartbeat to live-internal.fivem.net:30110
+[  41207609] Sending heartbeat to live-internal.fivem.net:30110
+[  41387625] Sending heartbeat to live-internal.fivem.net:30110
+[  41567672] Sending heartbeat to live-internal.fivem.net:30110
+[  41747687] Sending heartbeat to live-internal.fivem.net:30110
+[  41927750] Sending heartbeat to live-internal.fivem.net:30110
+[  42107765] Sending heartbeat to live-internal.fivem.net:30110
+[  42287781] Sending heartbeat to live-internal.fivem.net:30110
+[  42467812] Sending heartbeat to live-internal.fivem.net:30110
+[  42647812] Sending heartbeat to live-internal.fivem.net:30110
+[  42827828] Sending heartbeat to live-internal.fivem.net:30110
+[  43007890] Sending heartbeat to live-internal.fivem.net:30110
+[  43187953] Sending heartbeat to live-internal.fivem.net:30110
+[  43367984] Sending heartbeat to live-internal.fivem.net:30110
+[  43548047] Sending heartbeat to live-internal.fivem.net:30110
+[  43728093] Sending heartbeat to live-internal.fivem.net:30110
+[  43908156] Sending heartbeat to live-internal.fivem.net:30110
+[  44088172] Sending heartbeat to live-internal.fivem.net:30110
+[  44268187] Sending heartbeat to live-internal.fivem.net:30110
+[  44448250] Sending heartbeat to live-internal.fivem.net:30110
+[  44628265] Sending heartbeat to live-internal.fivem.net:30110
+[  44808297] Sending heartbeat to live-internal.fivem.net:30110
+[  44988343] Sending heartbeat to live-internal.fivem.net:30110
+[  45168390] Sending heartbeat to live-internal.fivem.net:30110
+[  45348406] Sending heartbeat to live-internal.fivem.net:30110
+[  45528468] Sending heartbeat to live-internal.fivem.net:30110
+[  45708500] Sending heartbeat to live-internal.fivem.net:30110
+[  45888547] Sending heartbeat to live-internal.fivem.net:30110
+[  46068578] Sending heartbeat to live-internal.fivem.net:30110
+[  46248609] Sending heartbeat to live-internal.fivem.net:30110
+[  46428656] Sending heartbeat to live-internal.fivem.net:30110
+[  46608687] Sending heartbeat to live-internal.fivem.net:30110
+[  46788703] Sending heartbeat to live-internal.fivem.net:30110
+[  46968765] Sending heartbeat to live-internal.fivem.net:30110
+[  47148828] Sending heartbeat to live-internal.fivem.net:30110
+[  47328890] Sending heartbeat to live-internal.fivem.net:30110
+[  47508922] Sending heartbeat to live-internal.fivem.net:30110
+[  47688953] Sending heartbeat to live-internal.fivem.net:30110
+[  47868968] Sending heartbeat to live-internal.fivem.net:30110
+[  47908562] LoKo is connecting...
+[  47909906] Sending heartbeat to live-internal.fivem.net:30110
+[  47945734] brv:playerFirstSpawned : 6
+[  47946031]  : ^2* LoKo joined.
+[  47946047]  : ^2* ^2Welcome to ^8Battle Royale V Reborn^2 ^4ALPHA^2 !
+[  47946062]  : ^2* ^2Available commands :
+[  47946062]  : ^2* ^4/help^2 : Show this message
+[  47946078]  : ^2* ^4/skin^2 : Select new random skin
+[  47946078]  : ^2* ^4/saveskin^2 : Save current skin
+[  47946093]  : ^2* ^4/name NEWNAME^2 : Change name to NEWNAME
+[  47946109]  : ^2* ^4/vote^2 : Vote to start the game immediately
+[  47946109]  : ^2* ^2Key controls :
+[  47946125]  : ^2* ^4"ARROW UP (HOLD)"^2 : Display Scoreboard
+[  47946140]  : ^2* ^4"F"^2 : Enable Spectator Mode near TV in lobby
+[  47946140]  : ^2* ^4"Z"^2 : Toggle Extended Radar
+[  47946156]  : ^2* ^2Join our Discord and thanks for playing !
+[  47946172] Command 'help' found, called by 'LoKo'.
+[  47953437] Command 'skin' found, called by 'LoKo'.
+[  47957140] Command 'skin' found, called by 'LoKo'.
+[  47961500] Command 'skin' found, called by 'LoKo'.
+[  48089937] Sending heartbeat to live-internal.fivem.net:30110
+[  48269984] Sending heartbeat to live-internal.fivem.net:30110
+[  48450031] Sending heartbeat to live-internal.fivem.net:30110
+[  48461484] Stopping resource brv_spawner
+[  48461500] Stopping resource brv_main
+[  48461531] Started resource brv_main
+[  48461531] Started gametype Battle Royale V
+[  48461640] Started resource brv_spawner
+[  48461656] Started map brv_spawner
+[  48463140] brv:playerFirstSpawned : 6
+[  48463437]  : ^2* LoKo joined.
+[  48463453]  : ^2* ^2Bienvenue sur ^8Sunset Surviror!
+[  48463468]  : ^2* ^2Listes des commandes :
+[  48463468]  : ^2* ^4/help^2 : Montrer ce message
+[  48463484]  : ^2* ^4/skin^2 : Choisir skin aleatoire
+[  48463500]  : ^2* ^4/saveskin^2 : Sauvegarder skin actuel 
+[  48463500]  : ^2* ^4/name NEWNAME^2 : Changer votre nom pour NEWNAME
+[  48463515]  : ^2* ^4/vote^2 : Voter pour commencer immediatement
+[  48463515]  : ^2* ^2Listes des touches :
+[  48463531]  : ^2* ^4"FLECHE HAUT (MAINTENIR)"^2 : Liste des scores et classement
+[  48463547]  : ^2* ^4"F"^2 : Activer mode spectateur prés de la TV
+[  48463547]  : ^2* ^4"Z"^2 : Agrandir radar
+[  48463562]  : ^2* ^2Rester courtois et bon jeu !
+[  48463578] Command 'help' found, called by 'LoKo'.
+[  48482797] Command 'skin' found, called by 'LoKo'.
+[  48486203] Command 'skin' found, called by 'LoKo'.
+[  48491953] Command 'skin' found, called by 'LoKo'.
+[  48494968] Command 'skin' found, called by 'LoKo'.
+[  48499672] Command 'skin' found, called by 'LoKo'.
+[  48503828] Command 'skin' found, called by 'LoKo'.
+[  48506672] Command 'skin' found, called by 'LoKo'.
+[  48509625] Command 'skin' found, called by 'LoKo'.
+[  48512843] Command 'skin' found, called by 'LoKo'.
+[  48518437] Command 'skin' found, called by 'LoKo'.
+[  48527547] Command 'skin' found, called by 'LoKo'.
+[  48530359] Command 'skin' found, called by 'LoKo'.
+[  48533500] Command 'skin' found, called by 'LoKo'.
+[  48538906] Command 'skin' found, called by 'LoKo'.
+[  48569234] Command 'saveskin' found, called by 'LoKo'.
+[  48569578]  : ^2* Skin saved (^4a_m_m_rurmeth_01^2)
+[  48630078] Sending heartbeat to live-internal.fivem.net:30110
+[  48636703] Boris Yurinov is connecting...
+[  48641781] Sending heartbeat to live-internal.fivem.net:30110
+[  48688625] brv:playerFirstSpawned : 7
+[  48689562]  : ^2* Boris Yurinov joined.
+[  48689578]  : ^2* ^2Bienvenue sur ^8Sunset Surviror!
+[  48689593]  : ^2* ^2Listes des commandes :
+[  48689593]  : ^2* ^4/help^2 : Montrer ce message
+[  48689609]  : ^2* ^4/skin^2 : Choisir skin aleatoire
+[  48689625]  : ^2* ^4/saveskin^2 : Sauvegarder skin actuel 
+[  48689625]  : ^2* ^4/name NEWNAME^2 : Changer votre nom pour NEWNAME
+[  48689640]  : ^2* ^4/vote^2 : Voter pour commencer immediatement
+[  48689640]  : ^2* ^2Listes des touches :
+[  48689656]  : ^2* ^4"FLECHE HAUT (MAINTENIR)"^2 : Liste des scores et classement
+[  48689672]  : ^2* ^4"F"^2 : Activer mode spectateur prés de la TV
+[  48689672]  : ^2* ^4"Z"^2 : Agrandir radar
+[  48689687]  : ^2* ^2Rester courtois et bon jeu !
+[  48689703] Command 'help' found, called by 'Boris Yurinov'.
+[  48719906]  : ^2* ^5Boris Yurinov^2 voted for the Battle to begin
+[  48719906] Command 'vote' found, called by 'Boris Yurinov'.
+[  48749828]  : ^2* ^5LoKo^2 voted for the Battle to begin
+[  48749828]  : ^2* ^0Voting is over, the Battle will begin soon...
+[  48749843] Command 'vote' found, called by 'LoKo'.
+[  48818031] Players stats saved
+[  48818047] Players stats saved
+[  48821843] Sending heartbeat to live-internal.fivem.net:30110
+[  48833906]  : ^2* ^5LoKo^2 voted for the Battle to begin
+[  48833906] Command 'vote' found, called by 'LoKo'.
+[  48840812]  : ^2* ^5Boris Yurinov^2 voted for the Battle to begin
+[  48840812]  : ^2* ^0Voting is over, the Battle will begin soon...
+[  48840828] Command 'vote' found, called by 'Boris Yurinov'.
+[  48904609] Players stats saved
+[  48904625] Players stats saved
+[  48921515]  : ^2* ^5LoKo^2 voted for the Battle to begin
+[  48921531] Command 'vote' found, called by 'LoKo'.
+[  48926875]  : ^2* ^5Boris Yurinov^2 voted for the Battle to begin
+[  48926890]  : ^2* ^0Voting is over, the Battle will begin soon...
+[  48926890] Command 'vote' found, called by 'Boris Yurinov'.
+[  48934156] John Haze is connecting...
+[  48935172] Sending heartbeat to live-internal.fivem.net:30110
+[  48987375] brv:playerFirstSpawned : 8
+[  48987718]  : ^2* John Haze joined.
+[  48987734]  : ^2* ^2Bienvenue sur ^8Sunset Surviror!
+[  48987734]  : ^2* ^2Listes des commandes :
+[  48987750]  : ^2* ^4/help^2 : Montrer ce message
+[  48987765]  : ^2* ^4/skin^2 : Choisir skin aleatoire
+[  48987765]  : ^2* ^4/saveskin^2 : Sauvegarder skin actuel 
+[  48987781]  : ^2* ^4/name NEWNAME^2 : Changer votre nom pour NEWNAME
+[  48987781]  : ^2* ^4/vote^2 : Voter pour commencer immediatement
+[  48987797]  : ^2* ^2Listes des touches :
+[  48987797]  : ^2* ^4"FLECHE HAUT (MAINTENIR)"^2 : Liste des scores et classement
+[  48987812]  : ^2* ^4"F"^2 : Activer mode spectateur prés de la TV
+[  48987828]  : ^2* ^4"Z"^2 : Agrandir radar
+[  48987828]  : ^2* ^2Rester courtois et bon jeu !
+[  48987843] Command 'help' found, called by 'John Haze'.
+[  48995328]  : ^2* You can't change your skin during the Battle
+[  48995343] Command 'skin' found, called by 'John Haze'.
+[  49001890]  : ^2* You can't change your skin during the Battle
+[  49001890] Command 'skin' found, called by 'John Haze'.
+[  49044172] Stopping resource trafficpnj
+[  49044187] Started resource trafficpnj
+[  49092078] Error running system event handling function for resource AdvancedFuel: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: server.lua:56: attempt to index a nil value (global 'ESX')
+[  49092078] stack traceback:
+[  49092093] 	server.lua:56: in upvalue 'handler'
+[  49092093] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:173>
+[  49092109] stack traceback:
+[  49092109] 	[C]: in function 'error'
+[  49092125] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  49092125] 	citizen:/scripting/lua/scheduler.lua:173: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  49115218] Sending heartbeat to live-internal.fivem.net:30110
+[  49171140]  : ^2* John Haze left (Disconnected.)
+[  49171172] Sending heartbeat to live-internal.fivem.net:30110
+[  49196390] Players stats saved
+[  49196390] Players stats saved
+[  49211937]  : ^2* Boris Yurinov left (Disconnected.)
+[  49211953] Sending heartbeat to live-internal.fivem.net:30110
+[  49243687]  : ^2* LoKo left (Disconnected.)
+[  49243718] Sending heartbeat to live-internal.fivem.net:30110
+[  49401484] GANDHEE is connecting...
+[  49407843] Sending heartbeat to live-internal.fivem.net:30110
+[  49455890] brv:playerFirstSpawned : 9
+[  49456781]  : ^2* GANDHEE joined.
+[  49456797]  : ^2* ^2Bienvenue sur ^8Sunset Surviror!
+[  49456812]  : ^2* ^2Listes des commandes :
+[  49456812]  : ^2* ^4/help^2 : Montrer ce message
+[  49456828]  : ^2* ^4/skin^2 : Choisir skin aleatoire
+[  49456843]  : ^2* ^4/saveskin^2 : Sauvegarder skin actuel 
+[  49456859]  : ^2* ^4/name NEWNAME^2 : Changer votre nom pour NEWNAME
+[  49456859]  : ^2* ^4/vote^2 : Voter pour commencer immediatement
+[  49456875]  : ^2* ^2Listes des touches :
+[  49456875]  : ^2* ^4"FLECHE HAUT (MAINTENIR)"^2 : Liste des scores et classement
+[  49456890]  : ^2* ^4"F"^2 : Activer mode spectateur prés de la TV
+[  49456906]  : ^2* ^4"Z"^2 : Agrandir radar
+[  49456906]  : ^2* ^2Rester courtois et bon jeu !
+[  49456922] Command 'help' found, called by 'GANDHEE'.
+[  49515672]  : ^2* GANDHEE left (Exiting)
+[  49515687] Sending heartbeat to live-internal.fivem.net:30110
+[  49695718] Sending heartbeat to live-internal.fivem.net:30110
+[  49875765] Sending heartbeat to live-internal.fivem.net:30110
+[  50055797] Sending heartbeat to live-internal.fivem.net:30110
+[  50235859] Sending heartbeat to live-internal.fivem.net:30110
+[  50415906] Sending heartbeat to live-internal.fivem.net:30110
+[  50595953] Sending heartbeat to live-internal.fivem.net:30110
+[  50775968] Sending heartbeat to live-internal.fivem.net:30110
+[  50956000] Sending heartbeat to live-internal.fivem.net:30110
+[  51136031] Sending heartbeat to live-internal.fivem.net:30110
+[  51316047] Sending heartbeat to live-internal.fivem.net:30110
+[  51496109] Sending heartbeat to live-internal.fivem.net:30110
+[  51676156] Sending heartbeat to live-internal.fivem.net:30110
+[  51856187] Sending heartbeat to live-internal.fivem.net:30110
+[  52036250] Sending heartbeat to live-internal.fivem.net:30110
+[  52216312] Sending heartbeat to live-internal.fivem.net:30110
+[  52396359] Sending heartbeat to live-internal.fivem.net:30110
+[  52576406] Sending heartbeat to live-internal.fivem.net:30110
+[  52756406] Sending heartbeat to live-internal.fivem.net:30110
+[  52936468] Sending heartbeat to live-internal.fivem.net:30110
+[  53116515] Sending heartbeat to live-internal.fivem.net:30110
+[  53296547] Sending heartbeat to live-internal.fivem.net:30110
+[  53476562] Sending heartbeat to live-internal.fivem.net:30110
+[  53656593] Sending heartbeat to live-internal.fivem.net:30110
+[  53836640] Sending heartbeat to live-internal.fivem.net:30110
+[  54016687] Sending heartbeat to live-internal.fivem.net:30110
+[  54196718] Sending heartbeat to live-internal.fivem.net:30110
+[  54376734] Sending heartbeat to live-internal.fivem.net:30110
+[  54556750] Sending heartbeat to live-internal.fivem.net:30110
+[  54736765] Sending heartbeat to live-internal.fivem.net:30110
+[  54916797] Sending heartbeat to live-internal.fivem.net:30110
+[  55096843] Sending heartbeat to live-internal.fivem.net:30110
+[  55276890] Sending heartbeat to live-internal.fivem.net:30110
+[  55456922] Sending heartbeat to live-internal.fivem.net:30110
+[  55597203] Sosa is connecting...
+[  55600656] Sending heartbeat to live-internal.fivem.net:30110
+[  55617765] brv:playerFirstSpawned : 10
+[  55618672]  : ^2* Sosa joined.
+[  55618687]  : ^2* ^2Bienvenue sur ^8Sunset Surviror!
+[  55618687]  : ^2* ^2Listes des commandes :
+[  55618703]  : ^2* ^4/help^2 : Montrer ce message
+[  55618703]  : ^2* ^4/skin^2 : Choisir skin aleatoire
+[  55618718]  : ^2* ^4/saveskin^2 : Sauvegarder skin actuel 
+[  55618734]  : ^2* ^4/name NEWNAME^2 : Changer votre nom pour NEWNAME
+[  55618734]  : ^2* ^4/vote^2 : Voter pour commencer immediatement
+[  55618750]  : ^2* ^2Listes des touches :
+[  55618765]  : ^2* ^4"FLECHE HAUT (MAINTENIR)"^2 : Liste des scores et classement
+[  55618765]  : ^2* ^4"F"^2 : Activer mode spectateur prés de la TV
+[  55618781]  : ^2* ^4"Z"^2 : Agrandir radar
+[  55618797]  : ^2* ^2Rester courtois et bon jeu !
+[  55618797] Command 'help' found, called by 'Sosa'.
+[  55637640]  : ^2* Sosa left (Disconnected.)
+[  55637687] Sending heartbeat to live-internal.fivem.net:30110
+[  55817734] Sending heartbeat to live-internal.fivem.net:30110
+[  55997750] Sending heartbeat to live-internal.fivem.net:30110
+[  56177797] Sending heartbeat to live-internal.fivem.net:30110
+[  56357812] Sending heartbeat to live-internal.fivem.net:30110
+[  56537859] Sending heartbeat to live-internal.fivem.net:30110
+[  56717906] Sending heartbeat to live-internal.fivem.net:30110
+[  56897968] Sending heartbeat to live-internal.fivem.net:30110
+[  57077984] Sending heartbeat to live-internal.fivem.net:30110
+[  57258015] Sending heartbeat to live-internal.fivem.net:30110
+[  57438062] Sending heartbeat to live-internal.fivem.net:30110
+[  57618109] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[       125] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       140] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       140] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       156] Found new resource AdvancedFuel in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/AdvancedFuel
+[       171] Found new resource afkkick in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/afkkick
+[       171] Found new resource assets in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/assets
+[       187] Found new resource bob74_ipl in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/bob74_ipl
+[       203] Found new resource boussole in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/boussole
+[       218] Found new resource client_base in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/client_base
+[       218] Found new resource crouch in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/crouch
+[       234] Found new resource nodroppnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/nodroppnj
+[       234] Found new resource noviseur in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/noviseur
+[       250] Found new resource PoliceVehiclesWeaponDeleter in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/PoliceVehiclesWeaponDeleter
+[       265] Found new resource pubg_aim in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/pubg_aim
+[       281] Found new resource trafficpnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/trafficpnj
+[       281] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_chat
+[       296] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_hardcap
+[       312] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_loading
+[       328] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_main
+[       328] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_scoreboard
+[       343] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_spawner
+[       359] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       468] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       484] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       500] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       500] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       515] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       531] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       531] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       546] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-hipster
+[       562] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-skater
+[       578] Found new resource skinvoiture in C:/Users\loko\Desktop\brv-reborn/resources//[stream]/skinvoiture
+[       578] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[       593] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[       609] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[       625] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[       625] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[       640] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[       656] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[       703] Started resource sessionmanager
+[       734] Started resource mapmanager
+[       750] Started resource brv_chat
+[       765] Started resource spawnmanager
+[       796] Started resource brv_hardcap
+[       812] Started resource rconlog
+[       843] Started resource brv_scoreboard
+[       859] Started resource baseevents
+[       890] Started resource brv_loading
+[       921] Started resource brv_main
+[       937] Started gametype Battle Royale V
+[       953] Started resource brv_spawner
+[       968] Started map brv_spawner
+[       984] Started resource runcode
+[      1703] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1952910192
+[      1734] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1750] Started resource mysql-async
+[      2000] Started resource afkkick
+[      2234] Started resource assets
+[      2265] Started resource bob74_ipl
+[      2296] Started resource boussole
+[      2328] Started resource AdvancedFuel
+[      2343] Started resource client_base
+[      2359] Started resource crouch
+[      2390] Started resource nodroppnj
+[      2406] Started resource noviseur
+[      2421] Started resource PoliceVehiclesWeaponDeleter
+[      2437] Started resource trafficpnj
+[      5000] Started resource skinvoiture
+[      5015] Started resource pubg_aim
+[      5031] Stopping resource sessionmanager
+[      5046] Started resource sessionmanager
+[      5062] Authenticating server license key...
+[      5546] Server license key authentication succeeded. Welcome!
+[      5640] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      5656] Sending heartbeat to live-internal.fivem.net:30110
+[      5843] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1952910192
+[      6109] hitch warning: frame time of 336 milliseconds
+[      6125] hitch warning: frame time of 170 milliseconds
+[    185703] Sending heartbeat to live-internal.fivem.net:30110
+[    365750] Sending heartbeat to live-internal.fivem.net:30110
+[    545796] Sending heartbeat to live-internal.fivem.net:30110
+[    725843] Sending heartbeat to live-internal.fivem.net:30110
+[    905890] Sending heartbeat to live-internal.fivem.net:30110
+[   1085921] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[       141] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       141] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       156] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       172] Found new resource AdvancedFuel in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/AdvancedFuel
+[       188] Found new resource afkkick in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/afkkick
+[       203] Found new resource assets in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/assets
+[       219] Found new resource bob74_ipl in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/bob74_ipl
+[       234] Found new resource boussole in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/boussole
+[       234] Found new resource client_base in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/client_base
+[       250] Found new resource crouch in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/crouch
+[       266] Found new resource nodroppnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/nodroppnj
+[       281] Found new resource noviseur in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/noviseur
+[       297] Found new resource PoliceVehiclesWeaponDeleter in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/PoliceVehiclesWeaponDeleter
+[       297] Found new resource pubg_aim in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/pubg_aim
+[       313] Found new resource trafficpnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/trafficpnj
+[       328] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_chat
+[       344] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_hardcap
+[       344] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_loading
+[       359] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_main
+[       375] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_scoreboard
+[       391] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_spawner
+[       406] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       422] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       422] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       438] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       453] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       469] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       469] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       484] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       500] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-hipster
+[       516] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-skater
+[       531] Found new resource skinvoiture in C:/Users\loko\Desktop\brv-reborn/resources//[stream]/skinvoiture
+[       547] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[       547] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[       563] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[       578] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[       594] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[       609] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[       609] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[       672] Started resource sessionmanager
+[       703] Started resource mapmanager
+[       813] Started resource brv_chat
+[       828] Started resource spawnmanager
+[       859] Started resource brv_hardcap
+[       875] Started resource rconlog
+[       906] Started resource brv_scoreboard
+[       922] Started resource baseevents
+[       953] Started resource brv_loading
+[       984] Started resource brv_main
+[      1000] Started gametype Battle Royale V
+[      1016] Started resource brv_spawner
+[      1031] Started map brv_spawner
+[      1047] Started resource runcode
+[      1766] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_458904861
+[      1797] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1813] Started resource mysql-async
+[      1875] Started resource afkkick
+[      2094] Started resource assets
+[      2109] Started resource bob74_ipl
+[      2234] Started resource boussole
+[      2266] Started resource AdvancedFuel
+[      2281] Started resource client_base
+[      2297] Started resource crouch
+[      2313] Started resource nodroppnj
+[      2328] Started resource noviseur
+[      2344] Started resource PoliceVehiclesWeaponDeleter
+[      2359] Started resource trafficpnj
+[      4813] Started resource skinvoiture
+[      4828] Started resource pubg_aim
+[      4828] Stopping resource sessionmanager
+[      4844] Started resource sessionmanager
+[      4859] Authenticating server license key...
+[      5422] Server license key authentication succeeded. Welcome!
+[      5516] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      5516] Sending heartbeat to live-internal.fivem.net:30110
+[      5719] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_458904861
+[      5828] hitch warning: frame time of 349 milliseconds
+[    185547] Sending heartbeat to live-internal.fivem.net:30110
+[    193234] 「LoKo」 Fr se connecte...
+[    195156] Sending heartbeat to live-internal.fivem.net:30110
+[    230297] brv:playerFirstSpawned : 1
+[    230359] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_458904861
+[    230672] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_458904861
+[    230922]  : ^2* LoKo joined.
+[    230938]  : ^2* ^2Bienvenue sur ^8Sunset Surviror!
+[    230938]  : ^2* ^2Listes des commandes :
+[    230953]  : ^2* ^4/help^2 : Montrer ce message
+[    230969]  : ^2* ^4/skin^2 : Choisir skin aleatoire
+[    230969]  : ^2* ^4/saveskin^2 : Sauvegarder skin actuel 
+[    230984]  : ^2* ^4/name NEWNAME^2 : Changer votre nom pour NEWNAME
+[    230984]  : ^2* ^4/vote^2 : Voter pour commencer immediatement
+[    231000]  : ^2* ^2Listes des touches :
+[    231016]  : ^2* ^4"FLECHE HAUT (MAINTENIR)"^2 : Liste des scores et classement
+[    231016]  : ^2* ^4"F"^2 : Activer mode spectateur prés de la TV
+[    231031]  : ^2* ^4"Z"^2 : Agrandir radar
+[    231031]  : ^2* ^2Rester courtois et bon jeu !
+[    231047] Command 'help' found, called by 'LoKo'.
+[    231063] hitch warning: frame time of 176 milliseconds
+[    313109] ^3Couldn't find resource bev_loading.^7
+[    322422] Stopping resource brv_loading
+[    322453] Started resource brv_loading
+[    339734]  : ^2* LoKo left (Disconnected.)
+[    339734] Sending heartbeat to live-internal.fivem.net:30110
+[    469641] Stopping resource brv_spawner
+[    469656] Stopping resource brv_main
+[    469688] Started resource brv_main
+[    469703] Started gametype Battle Royale V
+[    469797] Started resource brv_spawner
+[    469813] Started map brv_spawner
+[    481703] 「LoKo」 Fr se connecte...
+[    482359] Sending heartbeat to live-internal.fivem.net:30110
+[    497516] brv:playerFirstSpawned : 2
+[    497813]  : ^2* LoKo joined.
+[    497828]  : ^2* ^2Bienvenue sur ^8Sunset Surviror!
+[    497844]  : ^2* ^2Listes des commandes :
+[    497844]  : ^2* ^4/help^2 : Montrer ce message
+[    497859]  : ^2* ^4/skin^2 : Choisir skin aleatoire
+[    497859]  : ^2* ^4/saveskin^2 : Sauvegarder skin actuel 
+[    497875]  : ^2* ^4/name NEWNAME^2 : Changer votre nom pour NEWNAME
+[    497891]  : ^2* ^4/vote^2 : Voter pour commencer immediatement
+[    497891]  : ^2* ^2Listes des touches :
+[    497906]  : ^2* ^4"FLECHE HAUT (MAINTENIR)"^2 : Liste des scores et classement
+[    497922]  : ^2* ^4"F"^2 : Activer mode spectateur prés de la TV
+[    497922]  : ^2* ^4"Z"^2 : Agrandir radar
+[    497938]  : ^2* ^2Rester courtois et bon jeu !
+[    497938] Command 'help' found, called by 'LoKo'.
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        31] Hello!
+[       141] Found new resource fivem-awesome1501 in C:/Users\loko\Desktop\brv-reborn/resources//fivem-awesome1501
+[       156] Found new resource mysql-async in C:/Users\loko\Desktop\brv-reborn/resources//mysql-async
+[       172] Found new resource runcode in C:/Users\loko\Desktop\brv-reborn/resources//runcode
+[       172] Found new resource AdvancedFuel in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/AdvancedFuel
+[       188] Found new resource afkkick in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/afkkick
+[       203] Found new resource assets in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/assets
+[       219] Found new resource bob74_ipl in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/bob74_ipl
+[       219] Found new resource boussole in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/boussole
+[       235] Found new resource client_base in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/client_base
+[       250] Found new resource crouch in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/crouch
+[       250] Found new resource nodroppnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/nodroppnj
+[       266] Found new resource noviseur in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/noviseur
+[       281] Found new resource PoliceVehiclesWeaponDeleter in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/PoliceVehiclesWeaponDeleter
+[       281] Found new resource pubg_aim in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/pubg_aim
+[       297] Found new resource trafficpnj in C:/Users\loko\Desktop\brv-reborn/resources//[addons]/trafficpnj
+[       313] Found new resource brv_chat in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_chat
+[       328] Found new resource brv_hardcap in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_hardcap
+[       328] Found new resource brv_loading in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_loading
+[       344] Found new resource brv_main in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_main
+[       360] Found new resource brv_scoreboard in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_scoreboard
+[       375] Found new resource brv_spawner in C:/Users\loko\Desktop\brv-reborn/resources//[battleRoyale]/brv_spawner
+[       375] Found new resource race in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race
+[       391] Found new resource race-test in C:/Users\loko\Desktop\brv-reborn/resources//[gamemodes]/race-test
+[       406] Found new resource channelfeed in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/channelfeed
+[       422] Found new resource irc in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/irc
+[       438] Found new resource obituary in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary
+[       453] Found new resource obituary-deaths in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/obituary-deaths
+[       469] Found new resource playernames in C:/Users\loko\Desktop\brv-reborn/resources//[gameplay]/playernames
+[       485] Found new resource mapmanager in C:/Users\loko\Desktop\brv-reborn/resources//[managers]/mapmanager
+[       500] Found new resource fivem-map-hipster in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-hipster
+[       516] Found new resource fivem-map-skater in C:/Users\loko\Desktop\brv-reborn/resources//[map]/fivem-map-skater
+[       516] Found new resource skinvoiture in C:/Users\loko\Desktop\brv-reborn/resources//[stream]/skinvoiture
+[       531] Found new resource baseevents in C:/Users\loko\Desktop\brv-reborn/resources//[system]/baseevents
+[       547] Found new resource rconlog in C:/Users\loko\Desktop\brv-reborn/resources//[system]/rconlog
+[       563] Found new resource sessionmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/sessionmanager
+[       563] Found new resource spawnmanager in C:/Users\loko\Desktop\brv-reborn/resources//[system]/spawnmanager
+[       578] Found new resource betaguns in C:/Users\loko\Desktop\brv-reborn/resources//[test]/betaguns
+[       594] Found new resource gameInit in C:/Users\loko\Desktop\brv-reborn/resources//[test]/gameInit
+[       610] Found new resource keks in C:/Users\loko\Desktop\brv-reborn/resources//[test]/keks
+[       672] Started resource sessionmanager
+[       703] Started resource mapmanager
+[       735] Started resource brv_chat
+[       750] Started resource spawnmanager
+[       781] Started resource brv_hardcap
+[       797] Started resource rconlog
+[       813] Started resource brv_scoreboard
+[       844] Started resource baseevents
+[       875] Started resource brv_loading
+[       906] Started resource brv_main
+[       906] Started gametype Battle Royale V
+[       922] Started resource brv_spawner
+[       938] Started map brv_spawner
+[       953] Started resource runcode
+[      1656] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_152083883
+[      1688] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1703] Started resource mysql-async
+[      1750] Started resource afkkick
+[      1953] Started resource assets
+[      1985] Started resource bob74_ipl
+[      2000] Started resource boussole
+[      2031] Started resource AdvancedFuel
+[      2047] Started resource client_base
+[      2063] Started resource crouch
+[      2078] Started resource nodroppnj
+[      2094] Started resource noviseur
+[      2110] Started resource PoliceVehiclesWeaponDeleter
+[      2125] Started resource trafficpnj
+[      4656] Started resource skinvoiture
+[      4672] Started resource pubg_aim
+[      4688] Stopping resource sessionmanager
+[      4703] Started resource sessionmanager
+[      4703] Authenticating server license key...
+[      5235] Server license key authentication succeeded. Welcome!
+[      5328] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      5328] Sending heartbeat to live-internal.fivem.net:30110
+[      5531] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_152083883
+[      5625] hitch warning: frame time of 342 milliseconds
+[     39891] 「LoKo」 Fr se connecte...
+[     40766] Sending heartbeat to live-internal.fivem.net:30110
+[     91500] brv:playerFirstSpawned : 1
+[     91563] Loaded System.Threading.Tasks.Extensions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_152083883
+[     91891] Loaded System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_152083883
+[     92141]  : ^2* LoKo joined.
+[     92141]  : ^2* ^2Bienvenue sur ^8Sunset Surviror!
+[     92156]  : ^2* ^2Listes des commandes :
+[     92156]  : ^2* ^4/help^2 : Montrer ce message
+[     92172]  : ^2* ^4/skin^2 : Choisir skin aleatoire
+[     92188]  : ^2* ^4/saveskin^2 : Sauvegarder skin actuel 
+[     92188]  : ^2* ^4/name NEWNAME^2 : Changer votre nom pour NEWNAME
+[     92203]  : ^2* ^4/vote^2 : Voter pour commencer immediatement
+[     92203]  : ^2* ^2Listes des touches :
+[     92219]  : ^2* ^4"FLECHE HAUT (MAINTENIR)"^2 : Liste des scores et classement
+[     92219]  : ^2* ^4"F"^2 : Activer mode spectateur prés de la TV
+[     92235]  : ^2* ^4"Z"^2 : Agrandir radar
+[     92250]  : ^2* ^2Rester courtois et bon jeu !
+[     92250] Command 'help' found, called by 'LoKo'.
+[     92281] hitch warning: frame time of 173 milliseconds
